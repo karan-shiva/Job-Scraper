@@ -1,0 +1,149 @@
+
+✅ Filtered Job Titles with filter: Software%20Engineer: 
+
+1) (1) Graphics Rendering and Compositing Engineer
+May 29, 2025
+https://jobs.apple.com/en-us/details/200606596/graphics-rendering-and-compositing-engineer?team=SFTWR
+Minimum Qualifications: 
+* 3+ years of software development experience
+* BS or MS Degree or equivalent experience
+* Excellent C/C++ coding abilities
+* A genuine passion for 2D and 3D graphics
+* Experience with OpenGL, Vulkan, Metal, or other GPU programming APIs
+* Excellent communication and collaboration skills
+
+Prefered Qualifications: 
+* Excellent software design, problem solving and debugging skills
+* Experience with software performance analysis, optimizations and low-level systems programming
+* You have excellent judgment and integrity with the ability to make timely and sound decisions
+* You have an ability to handle complexity while achieving extraordinary quality
+* You are upbeat, adaptable, and results-oriented with a positive attitude
+* Experience with cross-platform and embedded software development
+
+--------------------------------------------------------------------------------------------------------------
+
+2) (3) Software Engineer (UI Solutions), Ai & Data Platforms
+May 28, 2025
+https://jobs.apple.com/en-us/details/200606676/software-engineer-ui-solutions-ai-data-platforms?team=SFTWR
+Minimum Qualifications: 
+* 3+ years of experience in application development with an in-depth understanding of data structures and algorithms
+* Strong expertise in ReactJS, along with other JavaScript frameworks such as AngularJS, Vue.js, etc.
+* Experience working with Node.js, Redux, TypeScript, Webpack, npm, etc.
+* Experience in developing rich user interfaces using HTML5 and CSS3.
+* Experience or understanding of iOS frameworks and related technologies, including SwiftUI OR React Native, UIKit, Core Data, etc.
+* Proven experience developing RESTful service layer components using Java OR Python OR GraphQL
+* Bachelors or equivalent degree in Computer Science
+
+Prefered Qualifications: 
+* Collaboration & Communication: Strong written and verbal communication skills, with experience collaborating with UX Designers and cross-functional teams.
+* Database Proficiency: Understanding of working with various databases including Oracle, Snowflake, SinglesStore, Cassandra, and Redis
+* Application Development & Testing: Experience in building unit tests using JavaScript testing frameworks, and testing browser-based applications for cross-browser compatibility
+* Full-Stack & DevOps Experience: Deep understanding of the full software development lifecycle, version control (Git), virtualization techniques (Kubernetes, Docker), and exposure to cloud methodologies (AWS preferred).
+* Mobile App Development: Hands-on experience with Xcode, App Store submission, review processes, and post-launch support.
+* Technical Adaptability: Excellent problem-solving, critical thinking abilities, and a solid capacity to evaluate and apply new technologies quickly.
+
+--------------------------------------------------------------------------------------------------------------
+
+3) (5) UI Software Engineer - Supply Chain Solutions
+May 28, 2025
+https://jobs.apple.com/en-us/details/200602496/ui-software-engineer-supply-chain-solutions?team=SFTWR
+Minimum Qualifications: 
+* 1+ Years of experience in application development using React, Typscript, javascript, Cocoa, Swift,Objective C.
+* Strong object oriented programming skills and client server architecture design.
+* In-depth development experience at the application and user interface level with Cocoa, React, Cocoa Touch.
+* Strong knowledge of Swift, Objective C, Python.
+* Strong knowledge of Cocoa Design Patterns.
+* Hands-on experience with at least one of the programming language like Python, Java etc…
+* Exposure to cloud computing platforms such as AWS and GCP, with experience in developing tools and services in public cloud environments.
+* B.S / M.S in Computer Science or equivalent.
+
+Prefered Qualifications: 
+* Experience with Cloud based databases like Snowflake/Redshift is a plus
+* Experience in DB technologies (RDBMS, Key-Value, Document based etc) is desired.
+* AI/ML related experience is a plus.
+* A strong understanding of LLMs, prompt engineering and RAG is a plus.
+* Familiarity with Python Data Analytics platforms, including Pandas, DataFrames, and NumPy, is a plus.
+
+--------------------------------------------------------------------------------------------------------------
+
+4) (6) Software Engineering - DevOps Engineer
+May 28, 2025
+https://jobs.apple.com/en-us/details/200587356/software-engineering-devops-engineer?team=SFTWR
+Minimum Qualifications: 
+* BS/MS in Computer Science, Computer Engineering (or equivalent experience)
+* Excellent understanding of the software development lifecycle
+* Expertise in Infrastructure as Code and CI/CD pipelines and deployments
+* Experience with data monitoring and observability tools such as Datadog, Kibana, Grafana, Splunk, etc.
+* Ability to work effectively with cross-functional teams, understand needs, and define test strategies
+* Excellent communication, problem solving, and critical thinking skills
+
+Prefered Qualifications: 
+* Strong in Python as a coding language
+* Knowledge of AI/ML systems and processes
+* Knowledge of and familiarity with developing in Apple’s ecosystem, including the Unix platform, Xcode, and macOS
+* Passion for Apple products, the documentation user experience, and the developer user experience within Xcode
+
+--------------------------------------------------------------------------------------------------------------
+
+5) (9) AIML - Software Engineer, Machine Learning Platform & Infrastructure
+May 28, 2025
+https://jobs.apple.com/en-us/details/200606524/aiml-software-engineer-machine-learning-platform-infrastructure?team=MLAI
+Minimum Qualifications: 
+* Strong coding skills in any programming language
+* Strong problem solving skills and ability to write performant and high quality clean code.
+* Quick learner who can pickup new technology stacks, programming languages and be able to deliver features.
+* Experience solving Big Data problems — we have problems that are far too large to fit on a single box, and we need to be able to build tools to solve them.
+* Excellent interpersonal skills; able to work independently as well as in a team; can take feedback and iterate on a solution in a collaborative environment
+* Our applications are complex and strong programming skills and computer science fundamentals are essential. Whether you have a traditional Masters or PhD in compute science or self-taught or learned some other way, we’d love to talk with you.
+
+Prefered Qualifications: 
+* Experience with cloud platforms such as AWS, GCP, or Azure is a plus
+* Experience with big data storage systems, data lake, data pipelines is a plus
+* Experience building Kubernetes based jobs & services is a plus.
+
+--------------------------------------------------------------------------------------------------------------
+
+6) (10) Software Engineer, Calls Core
+May 28, 2025
+https://jobs.apple.com/en-us/details/200606515/software-engineer-calls-core?team=SFTWR
+Minimum Qualifications: 
+* You possess strong software development and design skills.
+* You have strong object-oriented programming skills in Swift or Objective-C.
+* You have strong communication, collaboration, and interpersonal skills.
+* You are self-directed and can solve problems independently.
+
+Prefered Qualifications: 
+* You have strong understanding of building frameworks and daemons for an operating system.
+* You have created and refined APIs intended for other teams and developers to adopt.
+* You have familiarity with peer-to-peer or client-server architecture and network protocols.
+* You have experience with secure communication protocols, especially in handling untrusted data.
+
+--------------------------------------------------------------------------------------------------------------
+
+7) (12) Software Engineer - Maps Traffic
+May 27, 2025
+https://jobs.apple.com/en-us/details/200606489/software-engineer-maps-traffic?team=SFTWR
+Minimum Qualifications: 
+* BS in Computer Science or a quantitative field plus at least 6 years of production level experience or expertise.
+* Programming experience with a typed-language like Java, Scala and/or C++
+* Proficiency in working with SQL/NoSQL databases
+* Strong background in algorithms and ability to tackle complex challenges, think critically, and develop innovative algorithms
+* Excellent communication skills and ability to adapt quickly in a dynamic, fast-paced environment
+
+Prefered Qualifications: 
+* MS/PhD or equivalent experience in Computer Science or a quantitative field
+* Proven experience in working with very large-scale real-time data
+* Experience in building large-scale data pipelines, possibly using Spark or Flink
+* Experience with machine learning frameworks (e.g. PyTorch, TensorFlow) and model deployment a plus
+* Aptitude for learning independently; prototyping and proposing new software designs as a philosophy for delivering successful deployments
+* Experience with working on cloud-based infrastructure (preferably Kubernetes)
+* Experience with location data a plus
+* Front-end experience a plus
+
+--------------------------------------------------------------------------------------------------------------
+
+ERROR: link: https://jobs.apple.com/en-us/details/200606156/software-engineer-in-test-system-experience?team=SFTWR
+ERROR: url: https://jobs.apple.com/en-us/search?search=%22Software%20Engineer%22&sort=newest&location=united-states-USA&page=1&team=machine-learning-infrastructure-MLAI-MLI+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT
+ERROR: qual_type: Prefered Qualifications
+
+8) (13) Software Engineer in Test, System Experience

@@ -1,0 +1,115 @@
+
+✅ Filtered Job Titles with filter: Software%20Engineer: 
+
+1) (1) Software Development Engineer II
+https://careers.remitly.com/job/21969948/software-development-engineer-ii-seattle-wa/
+Minimum Qualifications: 
+* design and build solutions for complex, ambiguous challenges that span multiple technologies and systems (go, java/kotlin, typescript, react native, aws).
+* partner with product managers, program managers, analysts, and engineers to gather requirements and deliver scalable, high-quality software solutions.
+* contribute to the architecture and technical roadmap of our software systems, balancing short-term goals with long-term scalability and maintainability.
+* contribute to code reviews, sprint rituals, hiring, and mentoring.
+* take part in an on-call rotation to ensure the reliability and support of the team's services.
+
+Prefered Qualifications: 
+* a bachelor's degree in computer science, software engineering, or equivalent practical experience.
+* 3+ years of experience writing production-grade code and delivering robust, scalable software solutions.
+* a strong background in modern distributed system architecture, including experience with cloud platforms, message brokers, and various database technologies.
+* proficiency in at least one high-level programming language such as java, go, python, or typescript.
+* a proactive, analytical mindset with a passion for solving complex problems and continuously improving systems and workflows.
+* a strong commitment to code quality, supported by experience with testing frameworks, ci/cd pipelines, and observability tools.
+
+--------------------------------------------------------------------------------------------------------------
+
+2) (3) Software Development Engineer I
+https://careers.remitly.com/job/21999702/software-development-engineer-i-seattle-wa/
+Minimum Qualifications: 
+* design, build, and test core orchestration primitives for our trust & identity systems
+* debug and resolve issues to support high availability and system stability
+* collaborate with teammates to identify problems and ship quick, reliable fixes
+* create workback plans and contribute to delivering high-quality software on time
+* participate in team discussions, sharing updates, raising risks, and proposing solutions
+* continuously learn and apply modern backend technologies, tools, and best practices
+* grow through hands-on mentorship and feedback from senior engineers
+
+Prefered Qualifications: 
+* a bs in computer science or equivalent professional experience
+* experience in one or more general-purpose languages like java, javascript, go, php, python, kotlin, c#, or ruby
+* experience following technical best practices across a team
+* 1+ years of experience shipping high-quality products
+* experience following technical best practices across a team
+
+--------------------------------------------------------------------------------------------------------------
+
+3) (7) Software Development Engineer II, Verifications
+https://careers.remitly.com/job/21344451/software-development-engineer-ii-verifications-seattle-wa/
+Minimum Qualifications: 
+* design, build, and maintain scalable front-end and back-end systems
+* collaborate with cross-functional teams, including product managers and designers, to deliver customer-focused solutions
+* lead technical discussions, provide mentorship to junior engineers, and advocate for best practices in coding, testing, and system design.
+* identify and resolve technical challenges, improving system performance, reliability, and maintainability.
+* contribute to the evolution of our verification platform
+
+Prefered Qualifications: 
+* bachelor's degree in computer science, engineering, or related field; or equivalent work experience.
+* 2+ years of experience in software engineering
+* professional experience with one of the following programming languages: typescript, javascript, kotlin, java, go.
+* exposure to devops practices and ci/cd pipelines
+
+--------------------------------------------------------------------------------------------------------------
+
+4) (8) Software Development Engineer II, Verifications
+https://careers.remitly.com/job/21679918/software-development-engineer-ii-verifications-seattle-wa/
+Minimum Qualifications: 
+* design, build, and maintain scalable front-end and back-end systems
+* collaborate with cross-functional teams, including product managers and designers, to deliver customer-focused solutions
+* lead technical discussions, provide mentorship to junior engineers, and advocate for best practices in coding, testing, and system design.
+* identify and resolve technical challenges, improving system performance, reliability, and maintainability.
+* contribute to the evolution of our verification platform
+
+Prefered Qualifications: 
+* bachelor's degree in computer science, engineering, or related field; or equivalent work experience.
+* 2+ years of experience in software engineering
+* professional experience with one of the following programming languages: typescript, javascript, kotlin, java, go.
+* exposure to devops practices and ci/cd pipelines
+
+--------------------------------------------------------------------------------------------------------------
+
+5) (9) Software Development Engineer II, Core Customer Experience
+https://careers.remitly.com/job/21859329/software-development-engineer-ii-core-customer-experience-seattle-wa/
+Minimum Qualifications: 
+* develop high-quality, reusable, and scalable code involving multiple technologies (react native, typescript, go, java/kotlin, aws).
+* design and implement apis to communicate between front-end and back-end systems.
+* contribute to code reviews, sprint rituals, hiring, and mentoring.
+* contribute to the architecture and technical roadmap of our software systems, balancing short-term goals with long-term scalability and maintainability.
+* report to the engineering manager of the team.
+
+Prefered Qualifications: 
+* 3+ years of software development experience.
+* must have 1+ year react or react native development experience
+* experience as a react developer with an understanding of mobile app development.
+* professional experience with one of the following programming languages: typescript, javascript, kotlin, java, go.
+* familiarity with cloud platforms, such as aws or azure.
+
+--------------------------------------------------------------------------------------------------------------
+
+
+✅ Filtered Job Titles with filter: Software%20Developer: 
+
+1) (2) Software Development Engineer II, Core Customer Experience
+https://careers.remitly.com/job/21859329/software-development-engineer-ii-core-customer-experience-seattle-wa/
+Minimum Qualifications: 
+* develop high-quality, reusable, and scalable code involving multiple technologies (react native, typescript, go, java/kotlin, aws).
+* design and implement apis to communicate between front-end and back-end systems.
+* contribute to code reviews, sprint rituals, hiring, and mentoring.
+* contribute to the architecture and technical roadmap of our software systems, balancing short-term goals with long-term scalability and maintainability.
+* report to the engineering manager of the team.
+
+Prefered Qualifications: 
+* 3+ years of software development experience.
+* must have 1+ year react or react native development experience
+* experience as a react developer with an understanding of mobile app development.
+* professional experience with one of the following programming languages: typescript, javascript, kotlin, java, go.
+* familiarity with cloud platforms, such as aws or azure.
+
+--------------------------------------------------------------------------------------------------------------
+

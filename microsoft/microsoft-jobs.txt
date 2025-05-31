@@ -1,0 +1,708 @@
+
+✅ Filtered Job Titles with filter: Software%20Engineer: 
+
+1) (2) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1826667/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 1+ years of experience working in a devops environment on cloud services at scale.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 3+ years of experience developing and shipping software/services.
+* bachelors degree in computer science, electrical & computer engineering or mathematics or equivalent experience.
+* proven design, coding and debugging skills.
+* prior experience in building and operating large scale cloud services.
+* familiarity with operating systems (linux).
+* ability to quickly learn new technologies and work in agile environment.
+* ability to multi-task while balancing short term and long-term needs is essential
+*  
+
+--------------------------------------------------------------------------------------------------------------
+
+ERROR: link: https://jobs.careers.microsoft.com/global/en/job/1826746/Security-Researcher-II
+ERROR: url: https://jobs.careers.microsoft.com/global/en/search?q=%22Software%20Engineer%22&lc=United%20States&l=en_us&pg=1&pgSz=20&o=Recent
+ERROR: qual_type: Prefered Qualifications
+
+2) (12) Security Researcher II
+https://jobs.careers.microsoft.com/global/en/job/1826746/Security-Researcher-II
+Minimum Qualifications: 
+* 3+ years experience in software development lifecycle, large-scale computing, modeling, cybersecurity, and/or anomaly detection
+or master's degree in statistics, mathematics, computer science or related field.
+* or master's degree in statistics, mathematics, computer science or related field.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 3+ years of experience developing and shipping software/services.
+* bachelors degree in computer science, electrical & computer engineering or mathematics or equivalent experience.
+* proven design, coding and debugging skills.
+* prior experience in building and operating large scale cloud services.
+* familiarity with operating systems (linux).
+* ability to quickly learn new technologies and work in agile environment.
+* ability to multi-task while balancing short term and long-term needs is essential
+*  
+
+--------------------------------------------------------------------------------------------------------------
+
+3) (22) Cloud & AI Solution Engineer – Azure Platform
+https://jobs.careers.microsoft.com/global/en/job/1826570/Cloud-&-AI-Solution-Engineer-–-Azure-Platform
+Minimum Qualifications: 
+* 3+ years technical pre-sales or technical consulting experience  
+
+Prefered Qualifications: 
+* 4+ years technical pre-sales, technical consulting, or technology delivery, or related experience 
+
+--------------------------------------------------------------------------------------------------------------
+
+4) (28) Data Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1825912/Data-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science, math, software engineering, computer engineering, or related field and 2+ years experience in data engineering, building and optimizing large-scale data pipelines and architectures.
+or master's degree in computer science, math, software engineering, computer engineering, or related field and 1+ year(s) experience in data engineering, building and optimizing large-scale data pipelines and architectures.
+or equivalent experience.
+* or master's degree in computer science, math, software engineering, computer engineering, or related field and 1+ year(s) experience in data engineering, building and optimizing large-scale data pipelines and architectures.
+* or equivalent experience.
+* programming skills in languages such as python, scala, or sql for data processing and automation. 
+* expertise in distributed computing frameworks like spark, hadoop, or other cloud-based data solutions.
+* experience with cloud platforms such as azure, aws, or gcp, with a focus on data storage, processing, and security.
+
+Prefered Qualifications: 
+* understanding of machine learning workflows and data requirements for ai-driven security models.
+* knowledge of cybersecurity principles and familiarity with threat intelligence or anomaly detection in security applications.
+
+--------------------------------------------------------------------------------------------------------------
+
+5) (29) Cloud & AI Solution Engineer – Innovative Data Platform
+https://jobs.careers.microsoft.com/global/en/job/1826483/Cloud-&-AI-Solution-Engineer-–-Innovative-Data-Platform
+Minimum Qualifications: 
+* 3+ years technical pre-sales or technical consulting experience  
+
+Prefered Qualifications: 
+* 4+ years technical pre-sales, technical consulting, or technology delivery, or related experience 
+
+--------------------------------------------------------------------------------------------------------------
+
+ERROR: link: https://jobs.careers.microsoft.com/global/en/job/1826656/Sr.-Security-Researcher
+ERROR: url: https://jobs.careers.microsoft.com/global/en/search?q=%22Software%20Engineer%22&lc=United%20States&l=en_us&pg=2&pgSz=20&o=Recent
+ERROR: qual_type: Minimum Qualifications
+
+6) (42) Security Research II
+https://jobs.careers.microsoft.com/global/en/job/1814780/Security-Research-II
+Minimum Qualifications: 
+* 3+ years experience in software development lifecycle, large-scale computing, modeling, cybersecurity, and/or anomaly detection 
+
+Prefered Qualifications: 
+* 4+ years experience in software development lifecycle, large-scale computing, modeling, cyber-security, and/or anomaly detection 
+
+--------------------------------------------------------------------------------------------------------------
+
+7) (43) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1820519/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to c or c++.
+or equivalent experience.
+* or equivalent experience.
+* 2+ years of programming experience in c or c++  
+* 2+ years experience in software design and coding of layer2/l3/l4 ethernet/ip networking packet forwarding functions within a programmable nic or smart nic or linux kernel or network switch/routers or a network appliance. 
+
+Prefered Qualifications: 
+* experience in developing networking software on dpus or programmable nics or other hardware offload architectures 
+* ci/cd experience: knowledge of continuous integration and continuous deployment (ci/cd) practices for streamlined software development and deployment processes 
+* scripting for developer tools: proficiency in scripting languages to build and enhance developer tools, automating repetitive tasks and improving workflow efficiency. 
+
+--------------------------------------------------------------------------------------------------------------
+
+8) (44) Cloud & AI Solution Engineer - Software, Development Tools and AI
+https://jobs.careers.microsoft.com/global/en/job/1826482/Cloud-&-AI-Solution-Engineer---Software,-Development-Tools-and-AI
+Minimum Qualifications: 
+* 3+ years technical pre-sales or technical consulting experience
+or bachelor's degree in computer science, information technology, or related field and 2+ years technical pre-sales or technical consulting experience
+or master's degree in computer science, information technology, or related field and 1+ year(s) technical pre-sales or technical consulting experience
+or equivalent experience.
+* or bachelor's degree in computer science, information technology, or related field and 2+ years technical pre-sales or technical consulting experience
+* or master's degree in computer science, information technology, or related field and 1+ year(s) technical pre-sales or technical consulting experience
+* or equivalent experience.
+
+Prefered Qualifications: 
+* 4+ years technical pre-sales, technical consulting, or technology delivery, or related experience 
+
+--------------------------------------------------------------------------------------------------------------
+
+9) (52) Software Engineer
+https://jobs.careers.microsoft.com/global/en/job/1823971/Software-Engineer
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or equivalent experience. 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+* or equivalent experience. 
+* 1+ year(s) of computer architecture and operating systems experience, with contributions to operating systems kernels, drivers, or other software. 
+* 1+ year(s) of broad systems generalist experience with demonstrated initiative to solve problems, address defects, and enhance productivity.  
+* 1+ years of experience on arm based systems.
+
+Prefered Qualifications: 
+* experience with simulation, emulation and qemu internals. 
+* experience with arm aarch64 system architecture and arm trusted firmware-a (tf-a) 
+* experience with firmware interface standards like uefi and arm psci 
+* experience with deploying software and/or platforms at scale 
+* experience with windows driver development 
+
+--------------------------------------------------------------------------------------------------------------
+
+10) (54) Software Engineer ll
+https://jobs.careers.microsoft.com/global/en/job/1823120/Software-Engineer-ll
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience in full stack programming in .net, c#
+or equivalent experience.
+* or equivalent experience.
+* 1+ year(s) of industry experience in scripting languages such as powershell
+* 1+ years of experience in operating system concepts and identity access management.
+* 1+ years of industry experience managing large-scale engineering services, components, or critical feature areas within production environments
+* 1+ years of experience with live site management, including incident response, and service reliability improvements.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* hands-on experience in networking and infrastructure troubleshooting.
+* enterprise scale experience in virtualization and certificate services.
+* knowledge of system level programming (c, c++, vc++ or equivalent)
+* awareness and understanding of core cybersecurity principles and practices
+
+--------------------------------------------------------------------------------------------------------------
+
+11) (66) Software Engineer
+https://jobs.careers.microsoft.com/global/en/job/1823192/Software-Engineer
+Minimum Qualifications: 
+* bachelor's degree in computer science, or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, or java 
+or equivalent experience. 
+* or equivalent experience. 
+* 1+ year(s) of knowledge in storage internals, file-systems, distributed systems, operating systems, or low systems. 
+
+Prefered Qualifications: 
+* 1+ year(s) of experience coding in c or c++.
+
+--------------------------------------------------------------------------------------------------------------
+
+12) (70) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1821104/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+or equivalent experience. 
+* or equivalent experience. 
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+or equivalent experience. 
+* or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+* or equivalent experience. 
+
+--------------------------------------------------------------------------------------------------------------
+
+13) (74) Software Engineer - CTJ - Poly
+https://jobs.careers.microsoft.com/global/en/job/1823121/Software-Engineer---CTJ---Poly
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or equivalent experience. 
+* or equivalent experience. 
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+* or equivalent experience.
+
+--------------------------------------------------------------------------------------------------------------
+
+14) (78) Software Engineer - Fullstack, Mountain View
+https://jobs.careers.microsoft.com/global/en/job/1808788/Software-Engineer---Fullstack,-Mountain-View
+Minimum Qualifications: 
+* bachelor's degree (or currently pursuing a degree) in computer science or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python.
+or equivalent experience.
+* or equivalent experience.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 1+ year(s) technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python or equivalent experience.
+or master's degree (or currently pursuing a degree) in computer science or related technical field with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python.
+* or master's degree (or currently pursuing a degree) in computer science or related technical field with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python.
+
+--------------------------------------------------------------------------------------------------------------
+
+15) (84) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1823052/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including javascript, html, css 
+or equivalent experience.
+* or equivalent experience.
+* 2+ years experience with front-end development in an industry setting. 
+* 2+ years experience with front-end frameworks such as react, angular or equivalent.
+
+Prefered Qualifications: 
+* demonstrated ability to ship high-quality software on time.   
+* problem-solving skills and the ability to work effectively in a collaborative team environment.   
+* passion for customers, design thinking, data analysis, and technology.   
+* ability to perform at a high level in a fast paced, dynamic environment.  
+
+--------------------------------------------------------------------------------------------------------------
+
+16) (86) Software Engineer, Data Engineering
+https://jobs.careers.microsoft.com/global/en/job/1822695/Software-Engineer,-Data-Engineering
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or equivalent experience.
+* 1+ year' experience of azure service (microsoft entra id authentication, app services, functions, event hubs, stream analytics), azure devops.
+* 1+ year experience with microsoft fabric.
+
+Prefered Qualifications: 
+* master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 3+ years of software design and development experience with middle tier or backend services.
+* 3+ years hands on experience in any object-oriented coding language such as c++, c#, java or python. cloud and services experience; azure cloud experience.
+* solid communication skills, with the ability to convey complex technical concepts to non-technical stakeholders.
+* growth mindset with a desire to learn, a tendency to embrace challenges, persist in the face of setback, see failures as essential to mastery, learn from criticism and find lessons and inspiration in the success of others.
+* help to create a diverse and inclusive culture where everyone can bring their full and authentic self, where all voices are heard, and where we do our best work as a result.
+* a sense of personal ownership and accountability
+* self-motivated with a drive for reaching across teams and organizations to make progress collaboratively.
+* experience deploying, monitoring, and operating services in the cloud.
+
+--------------------------------------------------------------------------------------------------------------
+
+17) (92) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1825110/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or equivalent experience.
+* technical fundamentals in distributed systems, databases, or cloud-native architecture
+
+Prefered Qualifications: 
+* experience working on databases, storage engines, or high-scale backend services
+* interest or experience in ai-driven data workloads (e.g., search, agents, vector databases)
+* familiarity with rust, postgresql internals or contributing to open-source systems
+* comfort with debugging, diagnostics, and operations of live services
+* passion for improving developer productivity and building with empathy
+
+--------------------------------------------------------------------------------------------------------------
+
+18) (95) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1819266/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, or python
+or equivalent experience.
+* or equivalent experience.
+* experience in training and inferencing machine learning models from scratch at web scale.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* experience in infrastructure design in fraud or risk related areas or recommendation systems
+
+--------------------------------------------------------------------------------------------------------------
+
+19) (98) Software Engineer - CTJ - Poly
+https://jobs.careers.microsoft.com/global/en/job/1782976/Software-Engineer---CTJ---Poly
+Minimum Qualifications: 
+* bachelor's degree in computer science, or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience
+* or equivalent experience
+
+Prefered Qualifications: 
+* understanding and experience with ci/cd concepts and git.
+* experience working with docker, kubernetes or other containerization technologies
+* 2+ years of windows / linux hands on system experiences
+* experience debugging issues ranging from the operating system, application, and all the way to the cloud.
+* experienced in solving operational issues in a scalable way.
+* ability to thrive with the ambiguity associated with working in a fast-paced and changing environment.
+* support a 24x7 live site support model for the services the team owns.
+* kubernetes, and the kubernetes satellite technologies
+* some experience with building and supporting large-scale production services, including logging, monitoring, alerting, and measuring reliability and availability.
+* proficient in at least one scripting language but knows when to move solutions into managed code.
+* azure devops and github tooling
+* demonstrated communication skills and ability to collaborate in a multi-disciplinary team consisting of software engineers, program managers, security researchers, and data scientists
+
+--------------------------------------------------------------------------------------------------------------
+
+20) (119) Security Researcher II
+https://jobs.careers.microsoft.com/global/en/job/1823284/Security-Researcher-II
+Minimum Qualifications: 
+* 3+ years experience in software development lifecycle, large-scale computing, modeling, cybersecurity, and/or anomaly detection 
+
+Prefered Qualifications: 
+* 4+ years experience in software development lifecycle, large-scale computing, modeling, cyber-security, and/or anomaly detection 
+
+--------------------------------------------------------------------------------------------------------------
+
+21) (132) Software Engineer - Systems, Multiple Locations
+https://jobs.careers.microsoft.com/global/en/job/1753980/Software-Engineer---Systems,-Multiple-Locations
+Minimum Qualifications: 
+* bachelor's degree (or currently pursuing a degree) in computer science or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python,
+or equivalent experience.
+* or equivalent experience.
+
+Prefered Qualifications: 
+* bachelor's degree in computer engineering, computer science, or related technical field with coding in languages including, but not limited to, c, c++, rust, go, os device drivers, and embedded systems and 1+ years of experience,
+
+--------------------------------------------------------------------------------------------------------------
+
+22) (144) Software Engineer 2
+https://jobs.careers.microsoft.com/global/en/job/1813995/Software-Engineer-2
+Minimum Qualifications: 
+* bachelor’s degree in computer science or related technical field and 2+ years of engineering experience with coding in languages including, but not limited to c++
+or equivalent experience.
+* or equivalent experience.
+
+Prefered Qualifications: 
+* 3+ years of experience working on os internals, programming language design, compilers, or managed runtimes.
+* minimum of a bachelors degree in computer science, computer engineering, software design, software engineering, or a related field, or equivalent alternative education, skills, and/or practical experience is required
+
+--------------------------------------------------------------------------------------------------------------
+
+
+✅ Filtered Job Titles with filter: Software%20Developer: 
+
+1) (2) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1826667/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 1+ years of experience working in a devops environment on cloud services at scale.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 3+ years of experience developing and shipping software/services.
+* bachelors degree in computer science, electrical & computer engineering or mathematics or equivalent experience.
+* proven design, coding and debugging skills.
+* prior experience in building and operating large scale cloud services.
+* familiarity with operating systems (linux).
+* ability to quickly learn new technologies and work in agile environment.
+* ability to multi-task while balancing short term and long-term needs is essential
+*  
+
+--------------------------------------------------------------------------------------------------------------
+
+ERROR: link: https://jobs.careers.microsoft.com/global/en/job/1826746/Security-Researcher-II
+ERROR: url: https://jobs.careers.microsoft.com/global/en/search?q=%22Software%20Developer%22&lc=United%20States&l=en_us&pg=1&pgSz=20&o=Recent
+ERROR: qual_type: Prefered Qualifications
+
+2) (10) Security Researcher II
+https://jobs.careers.microsoft.com/global/en/job/1826746/Security-Researcher-II
+Minimum Qualifications: 
+* 3+ years experience in software development lifecycle, large-scale computing, modeling, cybersecurity, and/or anomaly detection
+or master's degree in statistics, mathematics, computer science or related field.
+* or master's degree in statistics, mathematics, computer science or related field.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 3+ years of experience developing and shipping software/services.
+* bachelors degree in computer science, electrical & computer engineering or mathematics or equivalent experience.
+* proven design, coding and debugging skills.
+* prior experience in building and operating large scale cloud services.
+* familiarity with operating systems (linux).
+* ability to quickly learn new technologies and work in agile environment.
+* ability to multi-task while balancing short term and long-term needs is essential
+*  
+
+--------------------------------------------------------------------------------------------------------------
+
+ERROR: link: https://jobs.careers.microsoft.com/global/en/job/1826656/Sr.-Security-Researcher
+ERROR: url: https://jobs.careers.microsoft.com/global/en/search?q=%22Software%20Developer%22&lc=United%20States&l=en_us&pg=2&pgSz=20&o=Recent
+ERROR: qual_type: Minimum Qualifications
+
+3) (36) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1820519/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to c or c++.
+or equivalent experience.
+* or equivalent experience.
+* 2+ years of programming experience in c or c++  
+* 2+ years experience in software design and coding of layer2/l3/l4 ethernet/ip networking packet forwarding functions within a programmable nic or smart nic or linux kernel or network switch/routers or a network appliance. 
+
+Prefered Qualifications: 
+* experience in developing networking software on dpus or programmable nics or other hardware offload architectures 
+* ci/cd experience: knowledge of continuous integration and continuous deployment (ci/cd) practices for streamlined software development and deployment processes 
+* scripting for developer tools: proficiency in scripting languages to build and enhance developer tools, automating repetitive tasks and improving workflow efficiency. 
+
+--------------------------------------------------------------------------------------------------------------
+
+4) (37) Cloud & AI Solution Engineer - Software, Development Tools and AI
+https://jobs.careers.microsoft.com/global/en/job/1826482/Cloud-&-AI-Solution-Engineer---Software,-Development-Tools-and-AI
+Minimum Qualifications: 
+* 3+ years technical pre-sales or technical consulting experience
+or bachelor's degree in computer science, information technology, or related field and 2+ years technical pre-sales or technical consulting experience
+or master's degree in computer science, information technology, or related field and 1+ year(s) technical pre-sales or technical consulting experience
+or equivalent experience.
+* or bachelor's degree in computer science, information technology, or related field and 2+ years technical pre-sales or technical consulting experience
+* or master's degree in computer science, information technology, or related field and 1+ year(s) technical pre-sales or technical consulting experience
+* or equivalent experience.
+
+Prefered Qualifications: 
+* 4+ years technical pre-sales, technical consulting, or technology delivery, or related experience 
+
+--------------------------------------------------------------------------------------------------------------
+
+5) (44) Software Engineer
+https://jobs.careers.microsoft.com/global/en/job/1823971/Software-Engineer
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or equivalent experience. 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+* or equivalent experience. 
+* 1+ year(s) of computer architecture and operating systems experience, with contributions to operating systems kernels, drivers, or other software. 
+* 1+ year(s) of broad systems generalist experience with demonstrated initiative to solve problems, address defects, and enhance productivity.  
+* 1+ years of experience on arm based systems.
+
+Prefered Qualifications: 
+* experience with simulation, emulation and qemu internals. 
+* experience with arm aarch64 system architecture and arm trusted firmware-a (tf-a) 
+* experience with firmware interface standards like uefi and arm psci 
+* experience with deploying software and/or platforms at scale 
+* experience with windows driver development 
+
+--------------------------------------------------------------------------------------------------------------
+
+6) (46) Software Engineer ll
+https://jobs.careers.microsoft.com/global/en/job/1823120/Software-Engineer-ll
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience in full stack programming in .net, c#
+or equivalent experience.
+* or equivalent experience.
+* 1+ year(s) of industry experience in scripting languages such as powershell
+* 1+ years of experience in operating system concepts and identity access management.
+* 1+ years of industry experience managing large-scale engineering services, components, or critical feature areas within production environments
+* 1+ years of experience with live site management, including incident response, and service reliability improvements.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* hands-on experience in networking and infrastructure troubleshooting.
+* enterprise scale experience in virtualization and certificate services.
+* knowledge of system level programming (c, c++, vc++ or equivalent)
+* awareness and understanding of core cybersecurity principles and practices
+
+--------------------------------------------------------------------------------------------------------------
+
+7) (58) Software Engineer
+https://jobs.careers.microsoft.com/global/en/job/1823192/Software-Engineer
+Minimum Qualifications: 
+* bachelor's degree in computer science, or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, or java 
+or equivalent experience. 
+* or equivalent experience. 
+* 1+ year(s) of knowledge in storage internals, file-systems, distributed systems, operating systems, or low systems. 
+
+Prefered Qualifications: 
+* 1+ year(s) of experience coding in c or c++.
+
+--------------------------------------------------------------------------------------------------------------
+
+8) (61) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1821104/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+or equivalent experience. 
+* or equivalent experience. 
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+or equivalent experience. 
+* or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, or java
+* or equivalent experience. 
+
+--------------------------------------------------------------------------------------------------------------
+
+9) (65) Software Engineer - CTJ - Poly
+https://jobs.careers.microsoft.com/global/en/job/1823121/Software-Engineer---CTJ---Poly
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or equivalent experience. 
+* or equivalent experience. 
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python 
+* or equivalent experience.
+
+--------------------------------------------------------------------------------------------------------------
+
+10) (69) Software Engineer - Fullstack, Mountain View
+https://jobs.careers.microsoft.com/global/en/job/1808788/Software-Engineer---Fullstack,-Mountain-View
+Minimum Qualifications: 
+* bachelor's degree (or currently pursuing a degree) in computer science or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python.
+or equivalent experience.
+* or equivalent experience.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 1+ year(s) technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python or equivalent experience.
+or master's degree (or currently pursuing a degree) in computer science or related technical field with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python.
+* or master's degree (or currently pursuing a degree) in computer science or related technical field with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python.
+
+--------------------------------------------------------------------------------------------------------------
+
+11) (75) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1823052/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including javascript, html, css 
+or equivalent experience.
+* or equivalent experience.
+* 2+ years experience with front-end development in an industry setting. 
+* 2+ years experience with front-end frameworks such as react, angular or equivalent.
+
+Prefered Qualifications: 
+* demonstrated ability to ship high-quality software on time.   
+* problem-solving skills and the ability to work effectively in a collaborative team environment.   
+* passion for customers, design thinking, data analysis, and technology.   
+* ability to perform at a high level in a fast paced, dynamic environment.  
+
+--------------------------------------------------------------------------------------------------------------
+
+12) (77) Software Engineer, Data Engineering
+https://jobs.careers.microsoft.com/global/en/job/1822695/Software-Engineer,-Data-Engineering
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or equivalent experience.
+* 1+ year' experience of azure service (microsoft entra id authentication, app services, functions, event hubs, stream analytics), azure devops.
+* 1+ year experience with microsoft fabric.
+
+Prefered Qualifications: 
+* master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or bachelor's degree in computer science or related technical field and 4+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* 3+ years of software design and development experience with middle tier or backend services.
+* 3+ years hands on experience in any object-oriented coding language such as c++, c#, java or python. cloud and services experience; azure cloud experience.
+* solid communication skills, with the ability to convey complex technical concepts to non-technical stakeholders.
+* growth mindset with a desire to learn, a tendency to embrace challenges, persist in the face of setback, see failures as essential to mastery, learn from criticism and find lessons and inspiration in the success of others.
+* help to create a diverse and inclusive culture where everyone can bring their full and authentic self, where all voices are heard, and where we do our best work as a result.
+* a sense of personal ownership and accountability
+* self-motivated with a drive for reaching across teams and organizations to make progress collaboratively.
+* experience deploying, monitoring, and operating services in the cloud.
+
+--------------------------------------------------------------------------------------------------------------
+
+13) (82) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1825110/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or equivalent experience.
+* technical fundamentals in distributed systems, databases, or cloud-native architecture
+
+Prefered Qualifications: 
+* experience working on databases, storage engines, or high-scale backend services
+* interest or experience in ai-driven data workloads (e.g., search, agents, vector databases)
+* familiarity with rust, postgresql internals or contributing to open-source systems
+* comfort with debugging, diagnostics, and operations of live services
+* passion for improving developer productivity and building with empathy
+
+--------------------------------------------------------------------------------------------------------------
+
+14) (84) Software Engineer II
+https://jobs.careers.microsoft.com/global/en/job/1819266/Software-Engineer-II
+Minimum Qualifications: 
+* bachelor's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, or python
+or equivalent experience.
+* or equivalent experience.
+* experience in training and inferencing machine learning models from scratch at web scale.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science or related technical field and 4+ years  technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience.
+* or master's degree in computer science or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+* or equivalent experience.
+* experience in infrastructure design in fraud or risk related areas or recommendation systems
+
+--------------------------------------------------------------------------------------------------------------
+
+15) (87) Software Engineer - CTJ - Poly
+https://jobs.careers.microsoft.com/global/en/job/1782976/Software-Engineer---CTJ---Poly
+Minimum Qualifications: 
+* bachelor's degree in computer science, or related technical field and 2+ years technical engineering experience with coding in languages including, but not limited to, c, c++, c#, java, javascript, or python
+or equivalent experience
+* or equivalent experience
+
+Prefered Qualifications: 
+* understanding and experience with ci/cd concepts and git.
+* experience working with docker, kubernetes or other containerization technologies
+* 2+ years of windows / linux hands on system experiences
+* experience debugging issues ranging from the operating system, application, and all the way to the cloud.
+* experienced in solving operational issues in a scalable way.
+* ability to thrive with the ambiguity associated with working in a fast-paced and changing environment.
+* support a 24x7 live site support model for the services the team owns.
+* kubernetes, and the kubernetes satellite technologies
+* some experience with building and supporting large-scale production services, including logging, monitoring, alerting, and measuring reliability and availability.
+* proficient in at least one scripting language but knows when to move solutions into managed code.
+* azure devops and github tooling
+* demonstrated communication skills and ability to collaborate in a multi-disciplinary team consisting of software engineers, program managers, security researchers, and data scientists
+
+--------------------------------------------------------------------------------------------------------------
+
+16) (104) Security Researcher II
+https://jobs.careers.microsoft.com/global/en/job/1823284/Security-Researcher-II
+Minimum Qualifications: 
+* 3+ years experience in software development lifecycle, large-scale computing, modeling, cybersecurity, and/or anomaly detection 
+
+Prefered Qualifications: 
+* 4+ years experience in software development lifecycle, large-scale computing, modeling, cyber-security, and/or anomaly detection 
+
+--------------------------------------------------------------------------------------------------------------
+
+17) (116) Software Engineer - Systems, Multiple Locations
+https://jobs.careers.microsoft.com/global/en/job/1753980/Software-Engineer---Systems,-Multiple-Locations
+Minimum Qualifications: 
+* bachelor's degree (or currently pursuing a degree) in computer science or related technical discipline with proven experience coding in languages including, but not limited to, c, c++, c#, java, javascript, or python,
+or equivalent experience.
+* or equivalent experience.
+
+Prefered Qualifications: 
+* bachelor's degree in computer engineering, computer science, or related technical field with coding in languages including, but not limited to, c, c++, rust, go, os device drivers, and embedded systems and 1+ years of experience,
+
+--------------------------------------------------------------------------------------------------------------
+
+18) (124) Software Engineer 2
+https://jobs.careers.microsoft.com/global/en/job/1813995/Software-Engineer-2
+Minimum Qualifications: 
+* bachelor’s degree in computer science or related technical field and 2+ years of engineering experience with coding in languages including, but not limited to c++
+or equivalent experience.
+* or equivalent experience.
+
+Prefered Qualifications: 
+* 3+ years of experience working on os internals, programming language design, compilers, or managed runtimes.
+* minimum of a bachelors degree in computer science, computer engineering, software design, software engineering, or a related field, or equivalent alternative education, skills, and/or practical experience is required
+
+--------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,1258 @@
+
+✅ Filtered Job Titles with filter: Software%20Engineer: 
+
+1) (2) Software Engineer III, Full Stack, Chrome
+https://www.google.com/about/careers/applications/jobs/results/93274660426130118-software-engineer-iii-full-stack-chrome?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* bachelor's degree in computer science, a related technical field or equivalent practical experience.
+* experience with web technologies such as html, css and javascript.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+2) (3) Software Engineer III, Site Reliability Engineering
+https://www.google.com/about/careers/applications/jobs/results/139425587304243910-software-engineer-iii-site-reliability-engineering?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree in computer science or engineering.
+* 2 years of experience designing, analyzing, and troubleshooting large-scale distributed systems.
+
+--------------------------------------------------------------------------------------------------------------
+
+3) (4) Software Engineer III, Embedded Systems/Firmware, AR
+https://www.google.com/about/careers/applications/jobs/results/83272868481114822-software-engineer-iii-embedded-systemsfirmware-ar?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+4) (5) Software Engineer, Auction Tuning
+https://www.google.com/about/careers/applications/jobs/results/123264791408976582-software-engineer-auction-tuning?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience in code and system health, diagnosis and resolution, and software test engineering.
+* experience developing accessible technologies.
+* experience with auction theory and related disciplines.
+* ability to understand engineering fundamentals including dashboards.
+
+--------------------------------------------------------------------------------------------------------------
+
+5) (6) Software Engineer III, Ads, AI/ML
+https://www.google.com/about/careers/applications/jobs/results/134087406230872774-software-engineer-iii-ads-aiml?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+6) (8) Software Engineer III, Performance, Google Maps
+https://www.google.com/about/careers/applications/jobs/results/128414614768493254-software-engineer-iii-performance-google-maps?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* experience developing accessible technologies.
+* experience with data visualization tools, and designing and building scalable and robust data pipelines to enable data-driven business decisions.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+* ability to structure reports/dashboards to give clarity on insights.
+
+--------------------------------------------------------------------------------------------------------------
+
+7) (9) Software Engineer III, Google Cloud Networking
+https://www.google.com/about/careers/applications/jobs/results/79815099111350982-software-engineer-iii-google-cloud-networking?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+8) (11) Software Engineer III, Engineering Productivity, Chrome OS
+https://www.google.com/about/careers/applications/jobs/results/138376273062699718-software-engineer-iii-engineering-productivity-chrome-os?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+9) (12) Software Engineer III, Embedded Systems, Firmware, Google TV
+https://www.google.com/about/careers/applications/jobs/results/120712984774222534-software-engineer-iii-embedded-systems-firmware-google-tv?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience in code and system health, diagnosis and resolution, and software test engineering.
+* experience programming in one or more of the following: java, c++, kotlin.
+
+--------------------------------------------------------------------------------------------------------------
+
+10) (15) Software Engineer III, Infrastructure, Google Cloud AI
+https://www.google.com/about/careers/applications/jobs/results/96052278741344966-software-engineer-iii-infrastructure-google-cloud-ai?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+11) (16) Software Engineer III, Full Stack, Google Ads
+https://www.google.com/about/careers/applications/jobs/results/99171459850478278-software-engineer-iii-full-stack-google-ads?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+12) (18) Software Engineer III, Infrastructure
+https://www.google.com/about/careers/applications/jobs/results/133656958702887622-software-engineer-iii-infrastructure?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+13) (23) Software Engineer III, Infrastructure, Google Cloud Storage
+https://www.google.com/about/careers/applications/jobs/results/124847401310528198-software-engineer-iii-infrastructure-google-cloud-storage?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+14) (25) Software Engineer, XR Geometry ML
+https://www.google.com/about/careers/applications/jobs/results/102736566257885894-software-engineer-xr-geometry-ml?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master’s degree or phd in computer science, electrical engineering, machine learning, computer vision, robotics, or a related technical field.
+* experience in developing accessible technologies, particularly within augmented reality/virtual reality/extended reality applications.
+* experience with python, tensorflow, pytorch, opencv, or other modern ml and cv frameworks.
+* experience developing real-time geometric sensing solutions for android and embedded systems.
+* experience with depth sensing hardware and multi-sensor fusion techniques.
+
+--------------------------------------------------------------------------------------------------------------
+
+15) (26) Software Engineer III, AI/ML Recommendations, Rankings, Predictions, YouTube
+https://www.google.com/about/careers/applications/jobs/results/98713782045287110-software-engineer-iii-aiml-recommendations-rankings-predictions-youtube?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+16) (27) Software Engineer III, Infrastructure, Google Cloud NetInfra
+https://www.google.com/about/careers/applications/jobs/results/122058791144301254-software-engineer-iii-infrastructure-google-cloud-netinfra?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+17) (30) Software Engineer III, Security/Privacy, Google Cloud Compute Infrastructure
+https://www.google.com/about/careers/applications/jobs/results/126462951648305862-software-engineer-iii-securityprivacy-google-cloud-compute-infrastructure?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+18) (31) Software Engineer III, Infrastructure, Google Cloud Global Networking
+https://www.google.com/about/careers/applications/jobs/results/80928836794884806-software-engineer-iii-infrastructure-google-cloud-global-networking?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+19) (32) Software Engineer, Enterprise Platform Engineering
+https://www.google.com/about/careers/applications/jobs/results/78520630646842054-software-engineer-enterprise-platform-engineering?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience working with one or more of the following: application development, distributed systems, ai/ml tooling, spanner, developing software systems, or security software development.
+* ability to work in a team environment and partner with cross-functional team members.
+
+--------------------------------------------------------------------------------------------------------------
+
+20) (34) Software Engineer Front-end, Machine Learning Benchmarking
+https://www.google.com/about/careers/applications/jobs/results/119268547678347974-software-engineer-frontend-machine-learning-benchmarking?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* experience building and maintaining fullstack applications, including back-end services and front-end user interfaces, for performance monitoring and analysis.
+* experience with ml frameworks (e.g., tensorflow, jax, pytorch). and hardware performance analysis, particularly with tpus and gpus.
+* experience with large language models (llms) and their performance characteristics.
+* demonstrated ability to design and implement robust, scalable, and user-friendly tools and infrastructure.
+* understanding of ml compiler optimizations and their impact on performance.
+
+--------------------------------------------------------------------------------------------------------------
+
+21) (35) CPU System Software Engineer, Performance, Architect
+https://www.google.com/about/careers/applications/jobs/results/117937778099921606-cpu-system-software-engineer-performance-architect?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in electrical engineering, computer engineering or computer science, with an emphasis on computer architecture.
+* experience in computer architecture and aarch64 systems.
+* experience with compiler construction, android tool chains, and android native development kit (ndk).
+* experience in system performance analysis, performance characterization and benchmark design.
+* experience in android software architecture, performance tuning and tools.
+* experience with performance modeling and related system tools (e.g., gem5, qemu, dynamorio).
+
+--------------------------------------------------------------------------------------------------------------
+
+22) (37) Software Engineer III, Machine Learning, Recommendations, Discover Ads
+https://www.google.com/about/careers/applications/jobs/results/132118540072166086-software-engineer-iii-machine-learning-recommendations-discover-ads?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience in applying structural thinking and well-developed problem-solving skills (quantitative, conceptual, investigative).
+* experience developing accessible technologies.
+* knowledge of ads products or business.
+
+--------------------------------------------------------------------------------------------------------------
+
+23) (38) Software Engineer III, Engineering Productivity, Pixel
+https://www.google.com/about/careers/applications/jobs/results/93921653762728646-software-engineer-iii-engineering-productivity-pixel?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master’s degree in computer science, machine learning and artificial intelligence, data science and engineering or other related technical field.
+* experience in developing and utilizing data visualization tools.
+* experience in python or r for data analysis and modeling.
+* experience in a data science role, with the ability to deliver impactful insights.
+* experience in sql for data querying and manipulation.
+* understanding of statistical modeling, machine learning algorithms, and data visualization techniques.
+
+--------------------------------------------------------------------------------------------------------------
+
+24) (40) Software Engineer lll, Generative AI
+https://www.google.com/about/careers/applications/jobs/results/74131594171818694-software-engineer-lll-generative-ai?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=2
+Minimum Qualifications: 
+* phd degree in computer science, or a related technical field, or equivalent practical experience.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* research experience in an area of computer systems design and implementation.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects.
+* 1 year of experience in a technical leadership role.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+25) (51) Software Engineer III, YouTube
+https://www.google.com/about/careers/applications/jobs/results/96863631953535686-software-engineer-iii-youtube?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+26) (54) Software Engineer III, Infrastructure, Google Cloud Security and Privacy
+https://www.google.com/about/careers/applications/jobs/results/137774347673576134-software-engineer-iii-infrastructure-google-cloud-security-and-privacy?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+27) (55) Software Engineer III, AI/ML GenAI, YouTube
+https://www.google.com/about/careers/applications/jobs/results/141228932895515334-software-engineer-iii-aiml-genai-youtube?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+28) (57) Software Engineer, TPU Performance, Hardware/Software Co-Design
+https://www.google.com/about/careers/applications/jobs/results/89000068454982342-software-engineer-tpu-performance-hardwaresoftware-codesign?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* experience with development of architecture simulator and micro-architecture.
+* experience with llms and ml frameworks and compilers.
+* experience with ml algorithm and performance optimizations.
+* knowledge of computer architecture, tpus or other accelerators.
+* excellent communication skills.
+
+--------------------------------------------------------------------------------------------------------------
+
+29) (59) Software Engineer III, Infrastructure, Google Cloud Data Management
+https://www.google.com/about/careers/applications/jobs/results/75673677902815942-software-engineer-iii-infrastructure-google-cloud-data-management?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+30) (63) Software Engineer III, Google Cloud Storage
+https://www.google.com/about/careers/applications/jobs/results/106053286166962886-software-engineer-iii-google-cloud-storage?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+31) (64) Software Engineer III, Infrastructure, Google Cloud Compute Infrastructure
+https://www.google.com/about/careers/applications/jobs/results/98249885597213382-software-engineer-iii-infrastructure-google-cloud-compute-infrastructure?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+32) (68) Software Engineer III, Security/Privacy, Google Cloud Compute Infrastructure
+https://www.google.com/about/careers/applications/jobs/results/126462951648305862-software-engineer-iii-securityprivacy-google-cloud-compute-infrastructure?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+33) (69) Software Engineer III, AI/ML, Google Play
+https://www.google.com/about/careers/applications/jobs/results/107217548319040198-software-engineer-iii-aiml-google-play?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+34) (70) Software Engineer III, Engineering Productivity, Google Cloud Platforms
+https://www.google.com/about/careers/applications/jobs/results/108208280370586310-software-engineer-iii-engineering-productivity-google-cloud-platforms?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=4
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in c++, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+35) (71) Software Engineer III, Engineering Productivity, Google Cloud Platforms
+https://www.google.com/about/careers/applications/jobs/results/108208280370586310-software-engineer-iii-engineering-productivity-google-cloud-platforms?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+36) (72) Software Engineer III, Infrastructure, Google Cloud NetInfra
+https://www.google.com/about/careers/applications/jobs/results/122058791144301254-software-engineer-iii-infrastructure-google-cloud-netinfra?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+37) (73) Software Engineer III, Infrastructure, Core
+https://www.google.com/about/careers/applications/jobs/results/142162245663498950-software-engineer-iii-infrastructure-core?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test developing.
+
+--------------------------------------------------------------------------------------------------------------
+
+38) (74) Software Engineer III, Quantum
+https://www.google.com/about/careers/applications/jobs/results/136339402002440902-software-engineer-iii-quantum?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large-scale systems data analysis, visualization tools, or debugging.
+* experience in code and system health, diagnosis and resolution, and software test engineering.
+* experience with telemetry systems like open telemetry, prometheus, and monarch.
+* experience with observability systems like grafana and google cloud monitoring/logging/tracing.
+* familiarity with quantum computing with enthusiasm to learn more.
+
+--------------------------------------------------------------------------------------------------------------
+
+39) (75) Software Engineer III, AI/ML, Core
+https://www.google.com/about/careers/applications/jobs/results/137833703349854918-software-engineer-iii-aiml-core?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+40) (76) Software Engineer III, Embedded Systems/Firmware, Platforms Infrastructure Engineering
+https://www.google.com/about/careers/applications/jobs/results/80032402176385734-software-engineer-iii-embedded-systemsfirmware-platforms-infrastructure-engineering?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+41) (77) Software Engineer III
+https://www.google.com/about/careers/applications/jobs/results/135494111636398790-software-engineer-iii?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or a related technical fields.
+* experience in developing accessible technologies.
+* experience in machine learning.
+
+--------------------------------------------------------------------------------------------------------------
+
+42) (78) Software Engineer III, Infrastructure, Google Cloud Platforms
+https://www.google.com/about/careers/applications/jobs/results/79605303951139526-software-engineer-iii-infrastructure-google-cloud-platforms?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+43) (80) Software Engineer III, Infrastructure, Cloud Data Management
+https://www.google.com/about/careers/applications/jobs/results/123829252654015174-software-engineer-iii-infrastructure-cloud-data-management?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience in code and system health, diagnosis and resolution, and software test engineering.
+* experience developing accessible technologies.
+* excellent database design and sql skills.
+
+--------------------------------------------------------------------------------------------------------------
+
+44) (81) Software Engineer III, AI/ML GenAI, Search
+https://www.google.com/about/careers/applications/jobs/results/83883778992153286-software-engineer-iii-aiml-genai-search?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+45) (82) Embedded Software Engineer, Google Tensor
+https://www.google.com/about/careers/applications/jobs/results/122450981005730502-embedded-software-engineer-google-tensor?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing device drivers and frameworks for custom hardware.
+* experience with integration of hardware emulation/simulation platforms.
+* experience with linux kernel, firmware, or rtos development.
+* experience with debugging.
+
+--------------------------------------------------------------------------------------------------------------
+
+46) (83) Software Engineer III, Full Stack, Google Assistant
+https://www.google.com/about/careers/applications/jobs/results/76425580764897990-software-engineer-iii-full-stack-google-assistant?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+47) (84) Software Engineer III, Security/Privacy, Google Cloud Security and Privacy
+https://www.google.com/about/careers/applications/jobs/results/136106345936888518-software-engineer-iii-securityprivacy-google-cloud-security-and-privacy?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+48) (85) Software Engineer III, Google Cloud Compute Infrastructure
+https://www.google.com/about/careers/applications/jobs/results/94598842374070982-software-engineer-iii-google-cloud-compute-infrastructure?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+49) (86) Software Engineer III, Full Stack, Google Workspace
+https://www.google.com/about/careers/applications/jobs/results/83737668902363846-software-engineer-iii-full-stack-google-workspace?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+50) (87) Software Engineer III, Machine Learning, Google Ads Quality
+https://www.google.com/about/careers/applications/jobs/results/95237767570563782-software-engineer-iii-machine-learning-google-ads-quality?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* phd or master's degree in computer science, artificial intelligence, machine learning, or related technical field.
+* experience in quality or modeling engineering teams.
+* excellent communication skills, with the ability to convey ideas and information in an effective and clear, concise manner, with internal and external stakeholders.
+
+--------------------------------------------------------------------------------------------------------------
+
+51) (88) Software Engineer III, Generative AI
+https://www.google.com/about/careers/applications/jobs/results/79383884713599686-software-engineer-iii-generative-ai?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=5
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with machine learning algorithms and tools (e.g., tensorflow), artificial intelligence, and deep learning.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+52) (98) Software Engineer III, Google Cloud Platforms
+https://www.google.com/about/careers/applications/jobs/results/92525417490981574-software-engineer-iii-google-cloud-platforms?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=7
+Minimum Qualifications: 
+* phd degree in computer science or related technical field.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+53) (107) Software Engineer III, AI/ML, Google Cloud Infrastructure
+https://www.google.com/about/careers/applications/jobs/results/141337197746758342-software-engineer-iii-aiml-google-cloud-infrastructure?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=7
+Minimum Qualifications: 
+* phd degree in computer science or related technical field.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or a related technical field.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+54) (108) Software Engineer III, Platforms Infrastructure Engineering
+https://www.google.com/about/careers/applications/jobs/results/73612300145042118-software-engineer-iii-platforms-infrastructure-engineering?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=7
+Minimum Qualifications: 
+* phd degree in computer science or related technical field.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+55) (113) Software Engineer III, Geo Map the World
+https://www.google.com/about/careers/applications/jobs/results/136520490171671238-software-engineer-iii-geo-map-the-world?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=7
+Minimum Qualifications: 
+* phd degree in computer science or related technical field.
+* experience coding in one of the following programming languages including but not limited to: c, c++, java, javascript, python, or golang.
+* experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience with java.
+* experience with geo systems.
+* experience with google infrastructure.
+* experience with machine learning.
+* experience in computational geometry.
+
+--------------------------------------------------------------------------------------------------------------
+
+56) (117) Software Engineer III, Engineering Productivity, Pixel
+https://www.google.com/about/careers/applications/jobs/results/133011031726138054-software-engineer-iii-engineering-productivity-pixel?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+57) (118) Software Engineer, Distributed Systems
+https://www.google.com/about/careers/applications/jobs/results/85419022165648070-software-engineer-distributed-systems?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience with sql, java, typescript or angular.
+* experience designing highly reliable and scalable services.
+* experience supporting software services; including deployment, production monitoring and support.
+
+--------------------------------------------------------------------------------------------------------------
+
+58) (120) Software Engineer III, Full Stack, Google Cloud Platforms
+https://www.google.com/about/careers/applications/jobs/results/111930608938033862-software-engineer-iii-full-stack-google-cloud-platforms?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+59) (121) Software Engineer, Data Filtering Platform Infrastructure
+https://www.google.com/about/careers/applications/jobs/results/98747968105915078-software-engineer-data-filtering-platform-infrastructure?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* experience in working with teams across different geographical locations.
+* experience in solving ambiguous problems.
+* ability to ramp up and learn quickly in a technical domain.
+* ability to design and complete projects.
+
+--------------------------------------------------------------------------------------------------------------
+
+60) (122) Software Engineer III, Budgeting, Google Ads
+https://www.google.com/about/careers/applications/jobs/results/114313241508618950-software-engineer-iii-budgeting-google-ads?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or a related technical field.
+* experience in developing accessible technologies.
+* experience in data analysis, problem-solving, machine learning, a/b testing.
+
+--------------------------------------------------------------------------------------------------------------
+
+61) (123) Software Engineer, Serving Ads Privacy
+https://www.google.com/about/careers/applications/jobs/results/117782617842950854-software-engineer-serving-ads-privacy?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large-scale systems data analysis, visualization tools, or debugging.
+* experience in code and system health, diagnosis and resolution, and software test engineering.
+* experience developing accessible technologies.
+* excellent collaboration, client and executive stakeholder influencing skills.
+* excellent proactive, and communication skills.
+
+--------------------------------------------------------------------------------------------------------------
+
+62) (124) Software Engineer III, Full Stack, Google Play
+https://www.google.com/about/careers/applications/jobs/results/79628827772232390-software-engineer-iii-full-stack-google-play?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+63) (130) Software Engineer, macOS Security
+https://www.google.com/about/careers/applications/jobs/results/97059534320607942-software-engineer-macos-security?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field or equivalent practical experience.
+* 2 years of experience building software for data privacy or security.
+* 2 years of experience with desktop native app development.
+* experience with software development using objective-c, swift, c/c++, or go.
+* understanding of the application sandboxing model on macos and ios and knowledge of x86_64 or arm64 assembly languages.
+
+--------------------------------------------------------------------------------------------------------------
+
+64) (135) Software Engineer III, Raxium
+https://www.google.com/about/careers/applications/jobs/results/112307548958139078-software-engineer-iii-raxium?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=8
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* 2 years of experience with front-end and user interface development.
+* experience with cascading style sheets (css).
+* experience with typescript.
+* experience with angular.
+
+Prefered Qualifications: 
+* experience maintaining manufacturing execution system (mes) in the semiconductor industry.
+* experience with statistical process control (spc) systems.
+
+--------------------------------------------------------------------------------------------------------------
+
+65) (146) Software Engineer III, Infrastructure, YouTube
+https://www.google.com/about/careers/applications/jobs/results/98901502986199750-software-engineer-iii-infrastructure-youtube?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+66) (147) Software Engineer III, Machine Learning (Generative AI), YouTube
+https://www.google.com/about/careers/applications/jobs/results/112411866466001606-software-engineer-iii-machine-learning-generative-ai-youtube?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical field.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* experience in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+67) (148) Software Engineer III, Security/Privacy, Google Cloud
+https://www.google.com/about/careers/applications/jobs/results/109248441321693894-software-engineer-iii-securityprivacy-google-cloud?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+68) (152) Software Engineer, Site Reliability Engineering, Campus
+https://www.google.com/about/careers/applications/jobs/results/102462863292932806-software-engineer-site-reliability-engineering-campus?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree in computer science or engineering, or a related field.
+
+--------------------------------------------------------------------------------------------------------------
+
+69) (153) Software Engineer III, Cloud Dependency Management
+https://www.google.com/about/careers/applications/jobs/results/98959007498019526-software-engineer-iii-cloud-dependency-management?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large-scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+70) (154) Software Engineer, Core Labs
+https://www.google.com/about/careers/applications/jobs/results/81723240656839366-software-engineer-core-labs?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* ability to collaborate well both within and outside the team.
+* ability to acquire and learn quickly in a technically complex domain.
+
+--------------------------------------------------------------------------------------------------------------
+
+71) (155) Software Engineer III, Core
+https://www.google.com/about/careers/applications/jobs/results/109573692215698118-software-engineer-iii-core?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+72) (156) Software Engineer III, Generative AI/ML, NotebookLM
+https://www.google.com/about/careers/applications/jobs/results/81658928353419974-software-engineer-iii-generative-aiml-notebooklm?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science, machine learning, ai, or a related technical field with generative ai focus.
+* experience developing accessible technologies and applying design principles in ai products.
+* experience developing and implementing comprehensive ai model quality evaluation frameworks, including hitl and automated metrics.
+* experience designing, developing, and deploying large-scale ml systems, specifically generative ai models (e.g., llms, diffusion models).
+* ability to lead technical initiatives and influence product direction in fast-moving, innovative environments, particularly for ai quality and ux.
+
+--------------------------------------------------------------------------------------------------------------
+
+73) (158) Software Engineer, Ads, AI/ML
+https://www.google.com/about/careers/applications/jobs/results/133824441757901510-software-engineer-ads-aiml?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* experience developing accessible technologies.
+
+--------------------------------------------------------------------------------------------------------------
+
+74) (160) Software Engineer III, Cloud Runtimes
+https://www.google.com/about/careers/applications/jobs/results/123212385828643526-software-engineer-iii-cloud-runtimes?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or a related technical field.
+* 2 years of experience with performance, large-scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+75) (162) Software Engineer III, Google Cloud Global Networking
+https://www.google.com/about/careers/applications/jobs/results/120026688342893254-software-engineer-iii-google-cloud-global-networking?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+76) (163) Software Engineer III, Infrastructure, Google Ads
+https://www.google.com/about/careers/applications/jobs/results/141079070749139654-software-engineer-iii-infrastructure-google-ads?q=%22Software%20Engineer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=10
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* programming experience in c++.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+
+✅ Filtered Job Titles with filter: Software%20Developer: 
+
+1) (3) Developer Relations Engineer, AI and Compute Enablement
+https://www.google.com/about/careers/applications/jobs/results/84354744570520262-developer-relations-engineer-ai-and-compute-enablement?q=%22Software%20Developer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* 4 years of experience as a software developer, architect, technical advocate, consultant, community/product manager or consultant.
+* experience presenting at technology conferences, blogging/writing technical articles, or contributing to a open source projects.
+* experience with coding or development.
+* excellent communication skills with the ability to present technical knowledge and information with others.
+
+--------------------------------------------------------------------------------------------------------------
+
+2) (5) Software Developer II, Site Reliability Development
+https://www.google.com/about/careers/applications/jobs/results/103424140139995846-software-developer-ii-site-reliability-development?q=%22Software%20Developer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree in computer science or engineering.
+
+--------------------------------------------------------------------------------------------------------------
+
+3) (6) Software Engineer III, Infrastructure, Core
+https://www.google.com/about/careers/applications/jobs/results/142162245663498950-software-engineer-iii-infrastructure-core?q=%22Software%20Developer%22&target_level=EARLY&target_level=MID&location=United%20States&sort_by=date&page=1
+Minimum Qualifications: 
+* bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with front-end frameworks, full-stack development, or api development.
+
+Prefered Qualifications: 
+* master's degree or phd in computer science or related technical fields.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* experience developing accessible technologies.
+* proficiency in code and system health, diagnosis and resolution, and software test developing.
+
+--------------------------------------------------------------------------------------------------------------
+

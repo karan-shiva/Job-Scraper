@@ -1,0 +1,818 @@
+
+✅ Filtered Job Titles with filter: Software%20Engineer: 
+
+🔗 1st BASE_URL
+
+1) (1) Software Development Engineer, Consumer Domains
+https://www.amazon.jobs/en/jobs/2994873/software-development-engineer-consumer-domains
+Minimum Qualifications: 
+* - 1+ years of non-internship professional software development experience
+- Experience programming with at least one software programming language
+
+Prefered Qualifications: 
+* - Bachelor's degree in computer science or equivalent
+
+
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+2) (2) Software Engineer I - ML Infra
+https://www.amazon.jobs/en/jobs/2990411/software-engineer-i-ml-infra
+Minimum Qualifications: 
+* - 1+ Years experience developing software in a professional environment
+- Knowledge of data structures and algorithm fundamentals
+- Knowledge of building, testing, and managing distributed services
+- Proficient coding skills in modern languages and frameworks
+- Minimum of Bachelor’s degree in Computer Science or equivalent experience
+
+Prefered Qualifications: 
+* - Experience with AWS technologies such as ECS, Sagemaker, Redshift, DynamoDB, Lambda, SQS, and Step Functions
+- Knowledge of supervised ML algorithms
+- Experience in building data pipelines and using data platforms like Airflow
+- Experience building and maintaining ML systems in production environments
+- Familiarity with Twitch and/or streaming on Twitch
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+3) (3) Software. Engineer I
+https://www.amazon.jobs/en/jobs/2990307/software-engineer-i
+Minimum Qualifications: 
+* - 1 - 2 years of relevant software engineering experience
+- A Bachelor's degree in Computer Science or equivalent industry experience as a Software Engineer
+- A strong foundation in data structures and algorithms.
+- Familiarity with scalability, concurrency, API design, data modeling, and distributed systems.
+- Proficiency in Go, Java, Python or another Object-oriented language
+- An eagerness to grow as a Software Engineer
+
+Prefered Qualifications: 
+* - Familiarity with AWS infrastructure
+- Coding experience in either iOS or Android
+- Coding experience with React
+- Twitch experience / knowledge as a viewer, moderator or streamer
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+4) (4) Software Development Engineer, Consumer Domains
+https://www.amazon.jobs/en/jobs/2989876/software-development-engineer-consumer-domains
+Minimum Qualifications: 
+* - 1+ years of non-internship professional software development experience
+- Experience programming with at least one software programming language
+
+Prefered Qualifications: 
+* - Bachelor's degree in computer science or equivalent
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+5) (5) Software Engineer I
+https://www.amazon.jobs/en/jobs/2989008/software-engineer-i
+Minimum Qualifications: 
+* - 1+ Years experience developing software in a professional environment
+- Prior experience building consumer-facing products at scale
+- Proficient coding skills in modern languages and frameworks
+- Proven ability with algorithms, data structures, data modeling, and schema design
+- Minimum of Bachelor’s degree in Computer Science or equivalent experience
+
+Prefered Qualifications: 
+* - Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+6) (6) Software Development Engineer, Marketing Technology (MarTech)
+https://www.amazon.jobs/en/jobs/2989899/software-development-engineer-marketing-technology-martech
+Minimum Qualifications: 
+* - Bachelor's degree in computer science or equivalent
+- 1+ years of non-internship professional software development experience
+- Experience programming with at least one software programming language
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+7) (7) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2988578/software-development-engineer
+Minimum Qualifications: 
+* - 1+ years of non-internship professional software development experience
+- Experience programming with at least one software programming language
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+- Basic understanding of security concepts
+- Capable of using technology to solve straightforward problems
+- Can take a defined design, turn it into high quality code, and deliver it on schedule
+- Proficient in a broad range of data structures and algorithms, knowing when it is (and isn’t) appropriate to use them
+- Experience with Computer Science fundamentals including data structures, algorithms, and problem solving
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+8) (8) Software Development Engineer, Consumer Domains
+https://www.amazon.jobs/en/jobs/2991364/software-development-engineer-consumer-domains
+Minimum Qualifications: 
+* - 1+ years of non-internship professional software development experience
+- Experience programming with at least one software programming language
+
+Prefered Qualifications: 
+* - Bachelor's degree in computer science or equivalent
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+9) (9) Software Development Engineer, Catalog Management Systems
+https://www.amazon.jobs/en/jobs/2981280/software-development-engineer-catalog-management-systems
+Minimum Qualifications: 
+* - Programming experience with one or more modern languages (e.g., Java, C++, C#), including object-oriented design
+- Bachelor’s degree in Computer Science or related field
+- 1+ years of experience in software development
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+- Basic understanding of security concepts
+- Capable of using technology to solve straightforward problems
+- Can take a defined design, turn it into high quality code, and deliver it on schedule
+- Proficient in a broad range of data structures and algorithms, knowing when it is (and isn’t) appropriate to use them
+- Experience with Computer Science fundamentals including data structures, algorithms, and problem solving
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+10) (10) Software Development Engineer, Consumer Domains
+https://www.amazon.jobs/en/jobs/2980992/software-development-engineer-consumer-domains
+Minimum Qualifications: 
+* - 1+ years of non-internship professional software development experience
+- Experience programming with at least one software programming language
+
+Prefered Qualifications: 
+* - Bachelor's degree in computer science or equivalent
+
+
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+11) (11) ML Acceleration / Framework Engineer - Distributed Training & Inference, AWS Neuron, Annapurna Labs, Annapurna Labs
+https://www.amazon.jobs/en/jobs/2956023/ml-acceleration-framework-engineer-distributed-training-inference-aws-neuron-annapurna-labs-annapurna-labs
+Minimum Qualifications: 
+* - To qualify, applicants should have earned (or will earn) a Bachelors or Masters degree between December 2022 and September 2025.
+- Working knowledge of C++ and Python
+- Experience with ML frameworks, particularly PyTorch, Jax, and/or vLLM
+- Understanding of parallel computing concepts and CUDA programming
+
+Prefered Qualifications: 
+* - Open source contributions to ML frameworks or tools
+- Experience optimizing ML workloads for performance
+- Direct experience with PyTorch internals or CUDA optimization
+- Hands-on experience with LLM infrastructure tools (e.g., vLLM, TensorRT)
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+12) (12) SDE I - Systems, Runtime, and ML Infrastructure (AWS Custom Silicon), Annapurna Labs
+https://www.amazon.jobs/en/jobs/2956020/sde-i-systems-runtime-and-ml-infrastructure-aws-custom-silicon-annapurna-labs
+Minimum Qualifications: 
+* - To qualify, applicants should have earned (or expect to earn) a Bachelor’s or Master’s degree between December 2022 to September 2025.
+- Strong programming skills in C/C++ or Python, with solid understanding of data structures and algorithms
+- Understanding of computer architecture, operating systems, and Linux environments
+- Internship or project experience related to systems programming, networking, or ML
+
+Prefered Qualifications: 
+* - Familiarity with version control systems (e.g., Git) and software development methodologies
+- Knowledge of ML concepts or frameworks (e.g., PyTorch, TensorFlow)
+- Interest in open-source development or contributions to technical communities
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+13) (13) ML Compiler Engineer I, Annapurna Labs
+https://www.amazon.jobs/en/jobs/2955921/ml-compiler-engineer-i-annapurna-labs
+Minimum Qualifications: 
+* - To qualify, applicants should have earned (or will earn) a Bachelors or Masters degree between December 2022 and September 2025.
+- Proficiency in C++ and Python programming, applied to compiler projects
+- Experience developing compiler optimizations or ML framework internals
+
+Prefered Qualifications: 
+* - Knowledge of code generation, compute graph optimization, resource scheduling
+- Experience optimizing Tensorflow, PyTorch or JAX deep learning models
+- Experience with multiple toolchains like LLVM, OpenXLA/XLA, MLIR, TVM
+- Familiarity with CUDA programming for GPU acceleration
+
+
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+14) (15) Software Engineer
+https://www.amazon.jobs/en/jobs/2943365/software-engineer
+Minimum Qualifications: 
+* - Bachelor's degree in Computer Science or related field or equivalent industry experience as a Software Engineer
+- Familiarity with scalability, concurrency, API design, data modeling, and distributed systems fundamentals
+- Willingness to learn and keep up with developments in the ever-evolving ML space
+- Willingness to try new things and work with a diverse group of people across many functions
+
+Prefered Qualifications: 
+* - Familiarity with machine learning techniques
+- Experience writing Go in production systems
+- Familiarity with Python and modern open source ML libraries (Pytorch, Tensorflow, etc.)
+- Experience with AWS infrastructure
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+15) (16) Software Engineer - Memberships, Commerce
+https://www.amazon.jobs/en/jobs/2934534/software-engineer-memberships-commerce
+Minimum Qualifications: 
+* - Bachelor’s degree in Computer Science or prior relevant engineering experiences
+- Strong understanding of data structures, algorithms, data modeling and schema design
+- 1+ years as an software engineer
+- Experience creating detailed technical documentation
+- Proficient experience level in one or more of the following language: Go, Javascript, Java, C++, Swift, Kotlin
+
+Prefered Qualifications: 
+* - Familiarity with the AWS ecosystem
+- Previous experience in commerce or monetization domain
+- Twitch user, broadcaster, or partner or experience in the gaming industry
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+16) (17) Machine Learning Chip Architect, Annapurna Labs
+https://www.amazon.jobs/en/jobs/2929864/machine-learning-chip-architect-annapurna-labs
+Minimum Qualifications: 
+* Bachelor’s degree or higher in Computer Science, Computer Engineering, Electrical Engineering, Machine Learning, or related fields.
+
+Graduation date between May 2023 - December 2025.
+
+Knowledge or past experience in computer architecture and silicon design.
+
+Experience with C++, Rust, or other programming languages, as well as with Python, or similar scripting language.
+
+Prefered Qualifications: 
+* Familiarity or experience with machine learning applications and performance tuning on accelerators such as GPUs, TPUs, or similar.
+
+Familiarity or experience with RTL coding using Verilog, SystemVerilog, or similar language.
+
+Excellent critical thinking skills, combined with the ability to present your beliefs clearly and compellingly in both verbal and written form.
+
+Technical fluency; comfort in understanding and discussing architectural concepts and algorithms, schedule tradeoffs, and new opportunities with technical team members.
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+17) (18) Software Engineer - Ads Supply
+https://www.amazon.jobs/en/jobs/2911543/software-engineer-ads-supply
+Minimum Qualifications: 
+* - 1+ Years experience developing software in a professional environment
+- Prior experience building consumer-facing products at scale
+- Proficient coding skills in modern languages and frameworks
+- Proven ability with algorithms, data structures, data modeling, and schema design
+- Minimum of Bachelor’s degree in Computer Science or equivalent experience
+
+Prefered Qualifications: 
+* - Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+18) (19) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2907474/software-development-engineer
+Minimum Qualifications: 
+* • Bachelor's Degree or higher in Computer Science, Computer Engineering, or related fields with a graduation date between May 2023 - September 2025 or graduated within the last 24 months.
+• Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+• Strong knowledge of Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis
+
+Prefered Qualifications: 
+* • Knowledge of, at least, one modern programming language such as C, C++, Java, or Perl
+• Experience building complex software systems that have been successfully delivered to customers
+• Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+• Ability to take a project from scoping requirements through actual launch of the project
+• Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs
+
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+19) (20) Software Development Engineer in Test – 2025 (US)
+https://www.amazon.jobs/en/jobs/2904059/software-development-engineer-in-test-2025-us
+Minimum Qualifications: 
+* - Currently working towards a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or other equivalent discipline, with an expected graduation date between October 2023 – September 2025 and/or graduated within the last 24 months.
+- Knowledge of at least one object-oriented language (e.g., Java, Python).
+- Familiar with software engineering best practices for the full software development life cycle.
+- Familiar with software test techniques and strategy.
+
+Prefered Qualifications: 
+* - Previous technical internship(s) in an SDE-T or other QA role.
+- Experience with test automation framework or tools (e.g., Junit, TestNG, Selenium).
+- Strong communication and collaboration skills.
+- Excellent analytical and problem-solving skills.
+- Ability to deal well with ambiguity.
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $105,000/year in our lowest geographic market up to $185,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+20) (21) Amazon Robotics - Technical Artist Co-op - July to December 2025, Virtual Systems
+https://www.amazon.jobs/en/jobs/2890947/amazon-robotics-technical-artist-co-op-july-to-december-2025-virtual-systems
+Minimum Qualifications: 
+* - Enrolled in a degree program in Computer Science, Visual Effects, Graphic Art, Animation, or related field with at least one semester of school left after completion of co-op.
+- Must be eligible and available for a full-time (40h / week) 6-month co-op between July to December 2024.
+- Substance Designer or substance painter
+- Experience with Maya, Houdini or Blender
+- Experience with Real-Time Photoreal shaders in any Game Engine
+- Good Understanding of PBR and MDL (Material Definition Language)
+
+Prefered Qualifications: 
+* - NVIDIA Omniverse Kit and other Omniverse Apps
+- C++, C#, Java
+- Substance Designer
+- 3D Studio Max
+- Familiarity with Revit, AutoCAD and Solidworks
+- Experience with USD based pipelines/workflows
+- Experience with 3D Scanning or Photogrammetry
+- Good Understanding of PBR and MDL (Material Definition Language)
+- Portfolio of previous work a plus.
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+21) (22) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2888390/software-development-engineer
+Minimum Qualifications: 
+* - Programming experience with one or more modern languages (e.g., Java, C++, C#), including object-oriented design
+- Bachelor’s degree in Computer Science or related field
+- 1+ years of experience in software development
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+- Basic understanding of security concepts
+- Capable of using technology to solve straightforward problems
+- Can take a defined design, turn it into high quality code, and deliver it on schedule
+- Proficient in a broad range of data structures and algorithms, knowing when it is (and isn’t) appropriate to use them
+- Experience with Computer Science fundamentals including data structures, algorithms, and problem solving
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+22) (23) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2888378/software-development-engineer
+Minimum Qualifications: 
+* - Programming experience with one or more modern languages (e.g., Java, C++, C#), including object-oriented design
+- Bachelor’s degree in Computer Science or related field
+- 1+ years of experience in software development
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+- Basic understanding of security concepts
+- Capable of using technology to solve straightforward problems
+- Can take a defined design, turn it into high quality code, and deliver it on schedule
+- Proficient in a broad range of data structures and algorithms, knowing when it is (and isn’t) appropriate to use them
+- Experience with Computer Science fundamentals including data structures, algorithms, and problem solving
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+23) (24) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2879751/software-development-engineer
+Minimum Qualifications: 
+* - Programming experience with one or more modern languages (e.g., Java, C++, C#), including object-oriented design
+- Bachelor’s degree in Computer Science or related field
+- 1+ years of experience in software development
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+- Basic understanding of security concepts
+- Capable of using technology to solve straightforward problems
+- Can take a defined design, turn it into high quality code, and deliver it on schedule
+- Proficient in a broad range of data structures and algorithms, knowing when it is (and isn’t) appropriate to use them
+- Experience with Computer Science fundamentals including data structures, algorithms, and problem solving
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+24) (25) Amazon Robotics - Embedded Firmware Co-op - July to December 2025
+https://www.amazon.jobs/en/jobs/2869359/amazon-robotics-embedded-firmware-co-op-july-to-december-2025
+Minimum Qualifications: 
+* - Currently working towards a BS in Computer Engineering, Robotics, or a similar field and must have at least one semester of school left to complete after the end of the co-op
+- Must be eligible and available for a full-time (40h / week) role from July-December 2025
+- Classroom and project experience in developing embedded systems, firmware, and/or control systems
+- Prior internship or co-op experience in a similar field
+
+Prefered Qualifications: 
+* - Experience in the design and debugging of embedded systems
+- Working knowledge and experience programming with scripts and C
+- Commitment to rigorous testing practices
+- Excellent written and oral communication skills
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+25) (26) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2861445/software-development-engineer
+Minimum Qualifications: 
+* - Programming experience with one or more modern languages (e.g., Java, C++, C#), including object-oriented design
+- Bachelor’s degree in Computer Science or related field
+- 1+ years of experience in software development
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+- Basic understanding of security concepts
+- Capable of using technology to solve straightforward problems
+- Can take a defined design, turn it into high quality code, and deliver it on schedule
+- Proficient in a broad range of data structures and algorithms, knowing when it is (and isn’t) appropriate to use them
+- Experience with Computer Science fundamentals including data structures, algorithms, and problem solving
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+26) (27) Software Development Engineer I 2025
+https://www.amazon.jobs/en/jobs/2850044/software-development-engineer-i-2025
+Minimum Qualifications: 
+* • Currently enrolled in or completed a Bachelors Degree or higher in Computer Science, Computer Engineering, or majors relating to these fields.
+• To qualify, applicants should have earned a Bachelors degree or higher between October 2023 and Fall 2025 and/or graduated within the last 24 months.
+• Possible start dates for this role are between January 2025 and October 2025
+• Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+• Internship, project, or academic experience in at least one of the areas: internals, kernel, OS/storage systems, job scheduling, resource management, file systems, search, or performance engineering
+
+Prefered Qualifications: 
+* • Previous technical internship(s), if applicable.
+• Experience with distributed, multi-tiered systems, algorithms, and relational databases.
+• Experience in optimization mathematics such as linear programming and nonlinear optimization.
+• Ability to effectively articulate technical challenges and solutions.
+• Adept at handling ambiguous or undefined problems as well as ability to think abstractly.
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+27) (28) Software Development Engineer I 2025, Redshift
+https://www.amazon.jobs/en/jobs/2850010/software-development-engineer-i-2025-redshift
+Minimum Qualifications: 
+* • Currently enrolled in or completed a Bachelors Degree or higher in Computer Science, Computer Engineering, or majors relating to these fields.
+• To qualify, applicants should have earned a Bachelors degree or higher between October 2023 and Fall 2025 and/or graduated within the last 24 months.
+• Possible start dates for this role are between January 2025 and October 2025
+• Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+• Internship, project, or academic experience in at least one of the areas: internals, kernel, OS/storage systems, job scheduling, resource management, file systems, search, or performance engineering
+
+Prefered Qualifications: 
+* • Pursuing Masters or PhD Degree with focus on Systems / Information Theory, Databases, Computer Science, Computer Engineering, or related
+• Strong knowledge of Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis
+• Strong software development skills
+
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+28) (29) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2847172/software-development-engineer
+Minimum Qualifications: 
+* - 1+ years of non-internship professional software development experience
+- Minimum of Bachelor's degree in Computer Science or prior relevant engineering experiences
+- Strong understanding of data structures, algorithms, data modeling and schema design
+- 1+ years as an software engineer
+- Experience creating detailed technical documentation
+- Proficient experience level in one or more of the following language: Go, Ruby, Java, C++
+- Familiar with AWS ecosystem
+
+Prefered Qualifications: 
+* - Previous experience in commerce/payments domain
+- Twitch user, broadcaster, or partner or experience in the gaming industry
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+29) (30) Amazon Robotics - Software Development Engineer
+https://www.amazon.jobs/en/jobs/2837590/amazon-robotics-software-development-engineer
+Minimum Qualifications: 
+* - Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+- Bachelor's degree in computer science related fields OR 1+ years equivalent experience in software development
+- Graduation date is before June 2025
+
+Prefered Qualifications: 
+* - Experience building software applications through internships, course projects, hackathons or personal projects
+- Proficient oral and written communication skills
+- Ability to collaborate effectively with a diverse, talented team
+- Experience with creative problem solving and articulating technical challenges and solutions
+- Exposure to any of the following concepts: AWS and other Web Technologies, schedulers, workflows, state machines, multi-threading, and networking protocols
+- Interest in Robotics including coursework or clubs
+
+
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+30) (32) Software Development Engineer, Veteran Opportunity
+https://www.amazon.jobs/en/jobs/2829138/software-development-engineer-veteran-opportunity
+Minimum Qualifications: 
+* • Bachelor's Degree or higher in Computer Science, Computer Engineering, or related fields with a graduation date between May 2023 - September 2025 or graduated within the last 24 months.
+• Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+• Strong knowledge of Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis
+
+Prefered Qualifications: 
+* • Knowledge of, at least, one modern programming language such as C, C++, Java, or Perl
+• Experience building complex software systems that have been successfully delivered to customers
+• Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+• Ability to take a project from scoping requirements through actual launch of the project
+• Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs
+
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+31) (33) Software Dev Engineer - Compiler, Annapurna Labs
+https://www.amazon.jobs/en/jobs/2789329/software-dev-engineer-compiler-annapurna-labs
+Minimum Qualifications: 
+* - Currently enrolled in, or completed a Bachelor’s degree program or higher in Computer Science, Computer Engineering, Electrical Engineering or related field
+- To qualify, applicants should have earned a Bachelor’s or Master’s degree between May 2023 to September 2025. Possible start dates for this role are between January 2025 to October 2025.
+- Programming experience in internship or coursework with programming language such as Python and/or C or C++.
+
+Candidates with strong interests and academic qualifications/research focus in two of the following:
+- Knowledge of code generation, compute graph optimization, resource scheduling
+- Data structure and algorithms
+- Compiler - Optimizing compilers (internals of LLVM, clang, etc)
+- Machine Learning - Experience with XLA, TVM, MLIR, LLVM
+- Deep learning models and algorithms
+- Tensorflow, PyTorch, or MxNET frameworks
+
+Prefered Qualifications: 
+* - Knowledge of code generation, compute graph optimization, resource scheduling
+- Previous technical internship(s), if applicable.
+- Experience in optimization mathematics such as linear programming and nonlinear optimization.
+- Ability to effectively articulate technical challenges and solutions.
+
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+32) (34) Software Development Engineer
+https://www.amazon.jobs/en/jobs/2704620/software-development-engineer
+Minimum Qualifications: 
+* - Programming experience with one or more modern languages (e.g., Java, C++, C#), including object-oriented design
+- Bachelor’s degree or higher in Computer Science or related field
+- 1+ years of experience in software development
+
+Prefered Qualifications: 
+* - Experience in building scalable software services (e.g., SOA, Micro-services)
+- Experience building and delivering software systems to internal or external customers
+- Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous deployments, testing, and operations
+- Problem solving skills and willingness to accept new challenges, take ownership and be adaptable
+- Basic understanding of security concepts
+- Capable of using technology to solve straightforward problems
+- Can take a defined design, turn it into high quality code, and deliver it on schedule
+- Proficient in a broad range of data structures and algorithms, knowing when it is (and isn’t) appropriate to use them
+- Experience with Computer Science fundamentals including data structures, algorithms, and problem solving
+
+
+
+  
+
+--------------------------------------------------------------------------------------------------------------
+
+🔗 1st BASE_URL
+
+1) (1) SDE II-Compute Services, EC2-Compute Services
+https://www.amazon.jobs/en/jobs/2994585/sde-ii-compute-services-ec2-compute-services
+Minimum Qualifications: 
+* - 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+
+Prefered Qualifications: 
+* - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+
+
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
+2) (2) Machine Learning Engineer, Gen AI Innovation Center, AWS
+https://www.amazon.jobs/en/jobs/2994375/machine-learning-engineer-gen-ai-innovation-center-aws
+Minimum Qualifications: 
+* - 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+- Hands-on experience with deep learning and/or machine learning methods (e.g. for training, fine tuning, and inference)
+- Hands-on experience with generative AI technology
+
+Prefered Qualifications: 
+* - 3+ years of full stack development experience
+- Bachelor's degree in computer science or equivalent
+- Graduate degree (MS or PhD) in computer science, engineering, mathematics or related technical/scientific field
+- 1+ years of experience hands-on experience with developing, deploying, or optimizing machine learning models using a recognized ML library or framework
+
+
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+
+--------------------------------------------------------------------------------------------------------------
+
