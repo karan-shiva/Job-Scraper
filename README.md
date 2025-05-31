@@ -1,6 +1,7 @@
 # Job Scraper 🧠💼
 
-A modular, extensible Python-based job scraping framework that extracts job listings from multiple company career portals. It uses a clean, template-driven structure to make scaling effortless — just copy and configure a new helper file for any company, and their job listings will be stored in a dedicated folder.
+A modular, extensible Python-based job scraping framework that extracts job listings from multiple company career portals. It uses a clean, template-driven structure to make scaling effortless — just copy and configure a new helper file for any company, and their job listings will be stored in a dedicated folder. 
+
 ---
 
 ## 🚀 Features
