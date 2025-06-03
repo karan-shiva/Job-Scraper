@@ -15,34 +15,38 @@ def check_and_get_quals(company, link, exclude_description, qual_type):
       return (True, desc)
   return (False, desc)
 
-def output_jobs(company, filter, exclude_titles, exclude_descriptions):
-  link_set = set()
+def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
+  link_set = set(company.get_link())
   base_urls = company.get_base_url()
   quals = company.get_quals()
 
   company.print("\n✅ Filtered Job Titles with filter: {}: \n".format(filter))
 
-  for base_url in base_urls:
+  for i, base_url in enumerate(base_urls):
     page = company.get_start_pageID()
     counter = 1
     date_counter = 1
+    date_check = True
 
-    company.print("🔗 1st BASE_URL\n")
+    company.print("🔗 BASE_URL {}\n".format(i+1))
     while True:
       desc_dict = {}
 
       print(page)
+      if page > company.get_max_pages():
+        break
       url = base_url.format(filter, page)
-      print(url)
+      # print(url)
       jobs = company.get_jobs(url)
 
       if not jobs:
         break
 
-      for job in jobs:
+      for j, job in enumerate(jobs):
         title, link = company.get_title_and_link(job)
 
         if title and link not in link_set and not any(ex in title for ex in exclude_titles):
+          company.print_link(link)
           flag = True
           for qual in quals:
             try:
@@ -63,8 +67,11 @@ def output_jobs(company, filter, exclude_titles, exclude_descriptions):
           if flag:
             continue
 
+          if not company.check_date(j):
+            date_check = False
+            break
           company.print("{}) ({}) {}".format(counter, date_counter, title))
-          date_check = company.print_and_check_date()
+          date_check = company.print_and_check_date(j)
           company.print(link)
 
           for qual in quals:
@@ -77,12 +84,15 @@ def output_jobs(company, filter, exclude_titles, exclude_descriptions):
           company.print("-"*110+"\n")
           counter += 1
           if not date_check:
-            return
+            break
         else:
           company.print_exlucde_title(title)
         date_counter += 1
             
       page += company.get_page_increement()
+      if not date_check:
+        break
+    print("Total jobs: {}".format(counter-1))
    
 
 def run_script(company):
@@ -118,4 +128,4 @@ if __name__ == "__main__":
   # run_script(Meta())
   # run_script(Microsoft())
   # run_script(Remitly())
-  run_script(Amazon())
+  run_script(Apple())

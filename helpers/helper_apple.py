@@ -32,7 +32,16 @@ class Apple(Base):
     ul = qual_header.find_element(By.XPATH, "following::ul")
     return ul.find_elements(By.TAG_NAME, "li")
   
-  def print_and_check_date(self):
+  def check_date(self, job_index):
+    date = self.child_driver.find_element(By.CSS_SELECTOR,"time")
+    dt = date.get_attribute("datetime")
+    given_date = datetime.strptime(dt,"%Y-%m-%d")
+    today = datetime.today()
+    if (today - given_date).days > 30:
+      return False
+    return True
+  
+  def print_and_check_date(self, job_index):
     date = self.child_driver.find_element(By.CSS_SELECTOR,"time")
     self.print(date.text.strip())
     dt = date.get_attribute("datetime")
@@ -64,17 +73,39 @@ class Apple(Base):
                   "Sr. Software",
                   "Solutions Architect",
                   "Software Development Engineer in Test",
-                  "Sr Software"]
+                  "Sr Software",
+                  "UI Software Engineer",
+                  "Graphics Rendering",
+                  "UI Solutions",
+                  "UI Software Engineer",
+                  "Software Engineer in Test",
+                  "Cellular Platform Software Engineer",
+                  "Wi-Fi",
+                  "Graphics"
+                  ]
     
-    exclude_descriptions = ["5 years",
-                            "5+ years",
-                            "5 or more years",
-                            "7 years",
-                            "7+ years",
-                            "7 or more years",
-                            "10 years",
-                            "10+ years",
-                            "10 or more years"]
+    exclude_descriptions = [
+                            "3+ years of software engineering experience with strong programming skills in Objective-C and/or Swift",
+                            "2+ years proven experience shipping high quality, tested code on iOS and / or macOS",
+                            "3+ years of professional iOS or macOS",
+                            "2+ years experience building scalable web applications",
+                            "2D and 3D graphics",
+                            "experience in Cellular",
+                            "Knowledge of real-time audio",
+                            "3+ years Industry experience in Cocoa",
+                            "Exposure to image processing technologies",
+                            "experience in Layer 2, Layer 3"]
+    
+    #Optional
+    # exclude_descriptions.append("Proficiency in full-stack")
+    
+    for i in range(5,11):
+      exclude_descriptions.append("{} years".format(i))
+      exclude_descriptions.append("{}+ years".format(i))
+      exclude_descriptions.append("{} or more years".format(i))
+      exclude_descriptions.append("{} year".format(i))
+      exclude_descriptions.append("{}+ year".format(i))
+      exclude_descriptions.append("{} or more year".format(i))
     
     # exclude_descriptions = []
     # exclude_titles = []

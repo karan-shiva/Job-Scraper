@@ -3,6 +3,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from defs import *
 from helpers import Base
+from datetime import datetime
 
 class Amazon(Base):
 
@@ -29,13 +30,34 @@ class Amazon(Base):
 
     qual_header = self.child_driver.find_element(By.XPATH,".//h2[contains(text(), '{}')]".format(qual))
     p = qual_header.find_element(By.XPATH, "./following-sibling::p")
-    return [p.text.replace("Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.","").
-            replace("Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit","").
-            replace("https://amazon.jobs/content/en/how-we-hire/accommodations","").
-            replace("for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.","").
-            replace("Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information,  please visit","").
-            replace("https://www.aboutamazon.com/workplace/employee-benefits","").
-            replace(". This position will remain posted until filled. Applicants should apply via our internal or external career site.","")]
+    p = p.text.replace("Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.","").\
+            replace("Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit","").\
+            replace("https://amazon.jobs/content/en/how-we-hire/accommodations","").\
+            replace("for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.","").\
+            replace("https://www.aboutamazon.com/workplace/employee-benefits","").\
+            replace(". This position will remain posted until filled. Applicants should apply via our internal or external career site.","").\
+            replace("Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.", "")
+    return [p[:p.find("Our compensation reflects the cost")].strip()]
+  
+  def print_and_check_date(self, job_index):
+    date = self.driver.find_elements(By.CSS_SELECTOR, "h2.posting-date")[job_index]
+    update = date.find_element(By.XPATH, "./following-sibling::p").text.strip()
+    self.print("\n".join([date.text.strip(), update,""]))
+    # dt = " ".join(date.text.strip().split(" ")[1:])
+    # given_date = datetime.strptime(dt,"%B %d, %Y")
+    # today = datetime.today()
+    # if (today - given_date).days > 30:
+    #   return False
+    return True
+
+  def print_link(self, link, job_index):
+    date = self.driver.find_elements(By.CSS_SELECTOR, "h2.posting-date")[job_index]
+    update = date.find_element(By.XPATH, "./following-sibling::p").text.strip()
+    return super().print_link("\n".join([link, date.text.strip(), update]), job_index)
+  
+  def check_link(self, link, link_set):
+    
+    return super().check_link(link, link_set)
   
   @staticmethod
   def get_title_and_link(job):
@@ -46,7 +68,8 @@ class Amazon(Base):
   @staticmethod
   def get_filter_and_excludes():
     filters = ["Software Engineer",
-              "Software Developer"]
+              "Software Developer",
+              "2025"]
     
     exclude_titles = ["Senior",
                       "Staff",
@@ -55,10 +78,13 @@ class Amazon(Base):
                       "iOS",
                       "Manager",
                       "PhD",
-                      "Front End"
+                      "Front End",
+                      "Analyst",
+                      "Co-op"
                       ]
     
-    exclude_descriptions = []
+    exclude_descriptions = ["Coding experience in either iOS or Android",
+                            ]
     for i in range(5,11):
       exclude_descriptions.append("{} years".format(i))
       exclude_descriptions.append("{}+ years".format(i))
@@ -70,7 +96,9 @@ class Amazon(Base):
   def get_base_url():
     return [
             "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}&result_limit=10&sort=recent&distanceType=Mi&radius=80km&industry_experience=less_than_1_year&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&",
-            "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}0&result_limit=10&sort=recent&distanceType=Mi&radius=80km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&"
+            "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}0&result_limit=10&sort=recent&distanceType=Mi&radius=80km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&",
+            "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}&result_limit=10&sort=relevant&distanceType=Mi&radius=80km&industry_experience=less_than_1_year&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&"
+
             ]
   
   @staticmethod
@@ -80,3 +108,7 @@ class Amazon(Base):
   @staticmethod
   def get_page_increement():
     return 10
+  
+  @staticmethod
+  def get_max_pages():
+    return 20

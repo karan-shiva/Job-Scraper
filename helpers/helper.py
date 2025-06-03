@@ -22,8 +22,23 @@ class Base:
         for desc in desc:
           f.write("{}\n".format(desc))
         f.write("{}\n\n".format(link))
+  
+  def print_link(self, link):
+    with open("{}/{}-link.txt".format(self.company, self.company), "a") as f:
+      f.write("{}\n".format(link))
 
-  def print_and_check_date(self):
+  def get_link(self):
+    try: 
+      with open("{}/{}-link.txt".format(self.company, self.company), "r") as f:
+        a = f.read().split("\n")
+        return a
+    except:
+      return []
+
+  def check_date(self, job_index):
+    return True
+
+  def print_and_check_date(self, job_index):
     return True
 
   def reset_files(self):
@@ -53,4 +68,8 @@ class Base:
   def get_qualifications(self, link, qual_type):
     li_elements = self.get_li_elements(link, qual_type)
     return [li.text for li in li_elements]
+  
+  @staticmethod
+  def get_max_pages():
+    return 10000
   
