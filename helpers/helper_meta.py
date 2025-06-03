@@ -40,7 +40,8 @@ class Meta(Base):
   @staticmethod
   def get_filter_and_excludes():
     filters = ["Software Engineer",
-              "Software Developer"]
+              "Software Developer",
+              "University Grad"]
     
     exclude_titles = ["Senior",
                       "Staff",
@@ -51,13 +52,17 @@ class Meta(Base):
                       "PhD",
                       "Front End"
                       ]
-    
-    exclude_descriptions = ["5 years",
-                            "5+ years",
-                            "5 or more years"
-                            ]
+    exclude_descriptions = []
+    for i in range(5,11):
+      exclude_descriptions.append("{} years".format(i))
+      exclude_descriptions.append("{}+ years".format(i))
+      exclude_descriptions.append("{} or more years".format(i))
     
     return (filters, exclude_titles, exclude_descriptions)
+  
+  @staticmethod
+  def get_max_pages():
+    return 5
 
   @staticmethod
   def get_base_url():

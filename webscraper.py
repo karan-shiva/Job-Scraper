@@ -52,13 +52,14 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
             try:
               flag, descs = check_and_get_quals(company, link, exclude_descriptions, qual)
             except Exception as e:
-              company.print("ERROR: link: {}".format(link))
-              company.print("ERROR: url: {}".format(url))
-              company.print("ERROR: qual_type: {}".format(qual))
-              company.print("")
-              print("ERROR SEEN")
-              print(e)
-              break
+              # company.print("ERROR: link: {}".format(link))
+              # company.print("ERROR: url: {}".format(url))
+              # company.print("ERROR: qual_type: {}".format(qual))
+              # company.print("")
+              # print("ERROR SEEN")
+              # print(e)
+              # break
+              descs  = ["NO DESC"]
             if flag:
               company.print_exclude_desc(title, link, descs)
               break
@@ -125,7 +126,7 @@ def run_script(company):
 if __name__ == "__main__":
   # run_script(Apple())
   # run_script(Google())
-  # run_script(Meta())
+  run_script(Meta())
   # run_script(Microsoft())
   # run_script(Remitly())
-  run_script(Apple())
+  # run_script(Apple())
