@@ -5,3 +5,4 @@ from .helper_google import Google
 from .helper_remitly import Remitly
 from .helper_microsoft import Microsoft
 from .helper_amazon import Amazon
+from .helper_oracle import Oracle

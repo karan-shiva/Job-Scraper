@@ -42,19 +42,24 @@ class Microsoft(Base):
     self.print(date)
     given_date = datetime.strptime(date,"%b %d, %Y")
     today = datetime.today()
-    if (today - given_date).days > 30:
+    if (today - given_date).days > 5:
       return False
     return True
   
   def check_date(self, job_index):
-    date_posted = self.child_driver.find_element(By.XPATH, ".//div[contains(text(), 'Date posted')]")
-    date = date_posted.find_element(By.XPATH, "./following-sibling::div").text.strip()
-    self.print(date)
-    given_date = datetime.strptime(date,"%b %d, %Y")
-    today = datetime.today()
-    if (today - given_date).days > 30:
-      return False
-    return True
+    try:
+      date_posted = self.child_driver.find_element(By.XPATH, ".//div[contains(text(), 'Date posted')]")
+      date = date_posted.find_element(By.XPATH, "./following-sibling::div").text.strip()
+      given_date = datetime.strptime(date,"%b %d, %Y")
+      today = datetime.today()
+      if (today - given_date).days > 5:
+        return False
+      return True
+    except:
+      print("ERROR fetching Date")
+      self.print("ERROR: fetching Date\n")
+      self.print("Link: {}".format(self.link))
+      return True
   
   @staticmethod
   def get_title_and_link(job):
@@ -79,7 +84,8 @@ class Microsoft(Base):
                       "Front End",
                       "Principal",
                       "Sr Software",
-                      "Sr. Software"
+                      "Sr. Software",
+                      "Data Analyst"
                       ]
     
     exclude_descriptions = []

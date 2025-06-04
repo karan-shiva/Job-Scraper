@@ -5,6 +5,7 @@ class Base:
   company = "base"
   driver = None
   child_driver = None
+  link = ""
 
   def print(self, s):
     with open("{}/{}-jobs.txt".format(self.company, self.company),"a") as f:
@@ -53,6 +54,9 @@ class Base:
     self.driver = driver
     self.child_driver = child_driver
 
+  def set_link(self, link):
+    self.link = link
+    
   @staticmethod
   def get_quals():
     return [MIN_QUAL, PREF_QUAL]
@@ -72,4 +76,8 @@ class Base:
   @staticmethod
   def get_max_pages():
     return 10000
+  
+  @staticmethod
+  def get_url(base_url, filter, page):
+    return base_url.format(filter, page)
   

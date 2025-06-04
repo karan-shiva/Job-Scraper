@@ -37,7 +37,7 @@ class Apple(Base):
     dt = date.get_attribute("datetime")
     given_date = datetime.strptime(dt,"%Y-%m-%d")
     today = datetime.today()
-    if (today - given_date).days > 30:
+    if (today - given_date).days > 7:
       return False
     return True
   
@@ -47,7 +47,7 @@ class Apple(Base):
     dt = date.get_attribute("datetime")
     given_date = datetime.strptime(dt,"%Y-%m-%d")
     today = datetime.today()
-    if (today - given_date).days > 30:
+    if (today - given_date).days > 5:
       return False
     return True
 
@@ -81,7 +81,9 @@ class Apple(Base):
                   "Software Engineer in Test",
                   "Cellular Platform Software Engineer",
                   "Wi-Fi",
-                  "Graphics"
+                  "Graphics",
+                  "Software Developer in Test",
+                  "Wireless"
                   ]
     
     exclude_descriptions = [

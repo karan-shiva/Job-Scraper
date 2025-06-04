@@ -2,9 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
-from helpers import Apple, Meta, Google, Remitly, Microsoft, Amazon
+from helpers import Apple, Meta, Google, Remitly, Microsoft, Amazon, Oracle
 from defs import *
 from urllib.parse import quote
+from datetime import datetime
 
 def check_and_get_quals(company, link, exclude_description, qual_type):
   quals = company.get_qualifications(link, qual_type)
@@ -32,10 +33,10 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
     while True:
       desc_dict = {}
 
-      print(page)
+      # print(page)
       if page > company.get_max_pages():
         break
-      url = base_url.format(filter, page)
+      url = company.get_url(base_url, filter, page)
       # print(url)
       jobs = company.get_jobs(url)
 
@@ -44,6 +45,7 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
 
       for j, job in enumerate(jobs):
         title, link = company.get_title_and_link(job)
+        company.set_link(link)
 
         if title and link not in link_set and not any(ex in title for ex in exclude_titles):
           company.print_link(link)
@@ -93,10 +95,10 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
       page += company.get_page_increement()
       if not date_check:
         break
-    print("Total jobs: {}".format(counter-1))
+    print("{} Total jobs: {}".format(company.company.upper(),counter-1))
    
 
-def run_script(company):
+def run_script(company: Oracle):
   try:
     options = Options()
     options.add_argument("--headless=new")  # Use "--headless=new" for Chrome 109+
@@ -112,6 +114,8 @@ def run_script(company):
 
     company.reset_files()
 
+    company.print_link(datetime.today().strftime("%B %d, %Y %H:%M:%S"))
+
     for filter in filters:
       output_jobs(company, quote(filter), exclude_titles, exclude_descriptions)
 
@@ -124,9 +128,10 @@ def run_script(company):
 
 
 if __name__ == "__main__":
-  # run_script(Apple())
-  # run_script(Google())
+  run_script(Apple())
   run_script(Meta())
-  # run_script(Microsoft())
-  # run_script(Remitly())
-  # run_script(Apple())
+  run_script(Microsoft())
+  run_script(Remitly())
+  run_script(Oracle())
+  # run_script(Google())
+  # run_script(Amazon())

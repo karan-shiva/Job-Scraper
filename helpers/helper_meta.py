@@ -50,9 +50,12 @@ class Meta(Base):
                       "iOS",
                       "Manager",
                       "PhD",
-                      "Front End"
+                      "Front End",
+                      "Electrical Engineer",
+                      "Research Engineer"
                       ]
-    exclude_descriptions = []
+    
+    exclude_descriptions = ["Building large-scale infrastructure applications"]
     for i in range(5,11):
       exclude_descriptions.append("{} years".format(i))
       exclude_descriptions.append("{}+ years".format(i))

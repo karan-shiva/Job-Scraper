@@ -3,6 +3,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from defs import *
 from helpers import Base
+from datetime import datetime
 
 class Remitly(Base):
 
@@ -30,6 +31,22 @@ class Remitly(Base):
       qual_header = self.child_driver.find_element(By.XPATH,".//b[contains(text(),'You Have:')]")
     ul = qual_header.find_element(By.XPATH, "following::ul")
     return ul.find_elements(By.TAG_NAME, "li")
+  
+  def check_date(self, job_index):
+    dt = self.driver.find_element(By.CSS_SELECTOR, "div.joblist-posdate").text.strip()
+    given_date = datetime.strptime(dt, "%m/%d/%Y")
+    if (datetime.today() - given_date).days > 5:
+      return False
+    return True
+  
+  def print_and_check_date(self, job_index):
+    dt = self.driver.find_element(By.CSS_SELECTOR, "div.joblist-posdate").text.strip()
+    self.print("{}\n".format(dt))
+    given_date = datetime.strptime(dt, "%m/%d/%Y")
+    if (datetime.today() - given_date).days > 5:
+      return False
+    return True
+
   
   @staticmethod
   def get_title_and_link(job):
