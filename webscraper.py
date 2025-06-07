@@ -47,8 +47,8 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
         title, link = company.get_title_and_link(job)
         company.set_link(link)
 
-        if title and link not in link_set and not any(ex in title for ex in exclude_titles):
-          company.print_link(link)
+        if title and company.check_link(link, link_set, j) and not any(ex in title for ex in exclude_titles):
+          company.print_link(link, j)
           flag = True
           for qual in quals:
             try:
@@ -82,8 +82,7 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
             for desc in desc_dict[qual]:
               company.print("* {}".format(desc))
             company.print("")
-          
-          link_set.add(link)
+
           company.print("-"*110+"\n")
           counter += 1
           if not date_check:
@@ -91,6 +90,7 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
         else:
           company.print_exlucde_title(title)
         date_counter += 1
+        company.add_link(link, link_set, j)
             
       page += company.get_page_increement()
       if not date_check:
@@ -98,7 +98,7 @@ def output_jobs(company: Apple, filter, exclude_titles, exclude_descriptions):
     print("{} Total jobs: {}".format(company.company.upper(),counter-1))
    
 
-def run_script(company: Oracle):
+def run_script(company: Apple):
   try:
     options = Options()
     options.add_argument("--headless=new")  # Use "--headless=new" for Chrome 109+
@@ -114,7 +114,7 @@ def run_script(company: Oracle):
 
     company.reset_files()
 
-    company.print_link(datetime.today().strftime("%B %d, %Y %H:%M:%S"))
+    company.print_link_data(datetime.today().strftime("%B %d, %Y %H:%M:%S"))
 
     for filter in filters:
       output_jobs(company, quote(filter), exclude_titles, exclude_descriptions)
@@ -133,5 +133,5 @@ if __name__ == "__main__":
   run_script(Microsoft())
   run_script(Remitly())
   run_script(Oracle())
-  # run_script(Google())
-  # run_script(Amazon())
+  run_script(Google())
+  run_script(Amazon())

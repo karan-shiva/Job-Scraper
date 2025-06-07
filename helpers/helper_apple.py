@@ -83,7 +83,9 @@ class Apple(Base):
                   "Wi-Fi",
                   "Graphics",
                   "Software Developer in Test",
-                  "Wireless"
+                  "Wireless",
+                  "VR Software Engineer",
+                  "AR Software Engineer"
                   ]
     
     exclude_descriptions = [
@@ -101,7 +103,7 @@ class Apple(Base):
     #Optional
     # exclude_descriptions.append("Proficiency in full-stack")
     
-    for i in range(5,11):
+    for i in range(5,20):
       exclude_descriptions.append("{} years".format(i))
       exclude_descriptions.append("{}+ years".format(i))
       exclude_descriptions.append("{} or more years".format(i))

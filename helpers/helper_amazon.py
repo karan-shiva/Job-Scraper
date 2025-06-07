@@ -39,25 +39,41 @@ class Amazon(Base):
             replace("Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.", "")
     return [p[:p.find("Our compensation reflects the cost")].strip()]
   
-  def print_and_check_date(self, job_index):
+  def get_date(self, job_index):
     date = self.driver.find_elements(By.CSS_SELECTOR, "h2.posting-date")[job_index]
     update = date.find_element(By.XPATH, "./following-sibling::p").text.strip()
-    self.print("\n".join([date.text.strip(), update,""]))
+    return (date.text.strip(), update)
+  
+  def add_link(self, link, link_set, job_index):
+    date, update = self.get_date(job_index)
+    link_set.add((link, date, update))
+  
+  def check_link(self, link, link_set, job_index):
+    date, update = self.get_date(job_index)
+    return (link, date, update) not in link_set
+  
+  def get_link(self):
+    try: 
+      with open("{}/{}-link.txt".format(self.company, self.company), "r") as f:
+        lines = f.read().split("\n")
+        a = [tuple(line.split("KARAN")) for line in lines]
+        return a
+    except:
+      return []
+    
+  def print_link(self, link, job_index):
+    date, update = self.get_date(job_index)
+    return super().print_link_data("KARAN".join([link, date, update]))
+
+  def print_and_check_date(self, job_index):
+    date, update = self.get_date(job_index)
+    self.print("\n".join([date, update,""]))
     # dt = " ".join(date.text.strip().split(" ")[1:])
     # given_date = datetime.strptime(dt,"%B %d, %Y")
     # today = datetime.today()
     # if (today - given_date).days > 30:
     #   return False
     return True
-
-  def print_link(self, link, job_index):
-    date = self.driver.find_elements(By.CSS_SELECTOR, "h2.posting-date")[job_index]
-    update = date.find_element(By.XPATH, "./following-sibling::p").text.strip()
-    return super().print_link("\n".join([link, date.text.strip(), update]), job_index)
-  
-  def check_link(self, link, link_set):
-    
-    return super().check_link(link, link_set)
   
   @staticmethod
   def get_title_and_link(job):
@@ -96,8 +112,8 @@ class Amazon(Base):
   def get_base_url():
     return [
             "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}&result_limit=10&sort=recent&distanceType=Mi&radius=80km&industry_experience=less_than_1_year&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&",
-            "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}0&result_limit=10&sort=recent&distanceType=Mi&radius=80km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&",
-            "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}&result_limit=10&sort=relevant&distanceType=Mi&radius=80km&industry_experience=less_than_1_year&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&"
+            "https://www.amazon.jobs/en/search?base_query=%22{}%22&offset={}&result_limit=10&sort=relevant&distanceType=Mi&radius=80km&industry_experience=less_than_1_year&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=United%20States&city=&country=USA&region=&county=&query_options=&",
+            "https://www.amazon.jobs/content/en/career-programs/university?country%5B%5D=US&category%5B%5D=Software+Development"
 
             ]
   
@@ -111,4 +127,4 @@ class Amazon(Base):
   
   @staticmethod
   def get_max_pages():
-    return 20
+    return 40

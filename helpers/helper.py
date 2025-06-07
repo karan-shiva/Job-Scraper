@@ -24,9 +24,18 @@ class Base:
           f.write("{}\n".format(desc))
         f.write("{}\n\n".format(link))
   
-  def print_link(self, link):
+  def print_link(self, link, job_index):
+    self.print_link_data(link)
+
+  def print_link_data(self, link):
     with open("{}/{}-link.txt".format(self.company, self.company), "a") as f:
       f.write("{}\n".format(link))
+
+  def add_link(self, link, link_set, job_index):
+    link_set.add(link)
+
+  def check_link(self, link, link_set, job_index):
+    return link not in link_set
 
   def get_link(self):
     try: 

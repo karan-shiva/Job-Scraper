@@ -37,14 +37,21 @@ class Microsoft(Base):
 
 
   def print_and_check_date(self, job_index):
-    date_posted = self.child_driver.find_element(By.XPATH, ".//div[contains(text(), 'Date posted')]")
-    date = date_posted.find_element(By.XPATH, "./following-sibling::div").text.strip()
-    self.print(date)
-    given_date = datetime.strptime(date,"%b %d, %Y")
-    today = datetime.today()
-    if (today - given_date).days > 5:
-      return False
-    return True
+    try:
+      date_posted = self.child_driver.find_element(By.XPATH, ".//div[contains(text(), 'Date posted')]")
+      date = date_posted.find_element(By.XPATH, "./following-sibling::div").text.strip()
+      self.print(date)
+      given_date = datetime.strptime(date,"%b %d, %Y")
+      today = datetime.today()
+      if (today - given_date).days > 5:
+        return False
+      return True
+    except:
+      print("ERROR fetching Date")
+      # self.print("ERROR: fetching Date\n")
+      # self.print("Link: {}".format(self.link))
+      self.print("No Date")
+      return True
   
   def check_date(self, job_index):
     try:
@@ -56,9 +63,9 @@ class Microsoft(Base):
         return False
       return True
     except:
-      print("ERROR fetching Date")
-      self.print("ERROR: fetching Date\n")
-      self.print("Link: {}".format(self.link))
+      # print("ERROR fetching Date")
+      # self.print("ERROR: fetching Date\n")
+      # self.print("Link: {}".format(self.link))
       return True
   
   @staticmethod
@@ -85,7 +92,8 @@ class Microsoft(Base):
                       "Principal",
                       "Sr Software",
                       "Sr. Software",
-                      "Data Analyst"
+                      "Data Analyst",
+                      " CTJ "
                       ]
     
     exclude_descriptions = []
